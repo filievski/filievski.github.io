@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filip Ilievski / PhD student"
+title                    : " FILIP ILIEVSKI/ PhD student"
 title_separator          : "-"
-name                     : &name "FILIP ILIEVSKI"
+name                     : &name "Filip Ilievski"
 description              : &description "personal description"
 url                      : https://filipdbrsk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
