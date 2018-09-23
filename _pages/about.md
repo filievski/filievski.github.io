@@ -20,6 +20,3 @@ For a detailed information on my experience, skills, teaching, reviewing, organi
 
 After obtaining my PhD degree, I intend to proceed working on the long-tail challenge in NLP by applying AI methods.
 
-
-You can reach me at ![f.ilievski AT vu DOT nl](/images/email.png)
-
