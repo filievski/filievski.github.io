@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filip Ilievski's Homepage"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Filip Ilievski"
 description              : &description "personal description"
