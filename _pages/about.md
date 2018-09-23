@@ -16,7 +16,7 @@ I have been investigating *how to improve the ability of semantic NLP systems wh
 
 Previously, I completed an Artificial Intelligence Master at VU Amsterdam with a cum laude honor. I have experience with a wide range of programming languages, databases, and techniques. My preferred programming language is Python (particularly the scientific Python stack). 
 
-For a detailed information on my experience, skills, teaching, reviewing, organization, etc., please check my <a href="/files/CV.prf">CV</a>.
+For a detailed information on my experience, skills, teaching, reviewing, organization, etc., please check my <a href="/files/CV.pdf">CV</a>.
 
 After obtaining my PhD degree, I intend to proceed working on the long-tail challenge in NLP by applying AI methods. You have an exciting opening? Let me know!
 
