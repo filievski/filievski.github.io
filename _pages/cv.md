@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV <a href="/files/CV.pdf">here</a> (last updated: 23 September 2018)
+You can find my CV <u><a href="/files/CV.pdf">here</a></u> (last updated: 23 September 2018)
