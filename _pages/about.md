@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Filip Ilievski's Homepage"
+title: "Welcome to my homepage"
 excerpt: "Welcome to my homepage"
 author_profile: true
 redirect_from: 
