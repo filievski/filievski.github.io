@@ -11,9 +11,9 @@ title                    : "Filip Ilievski's Homepage"
 title_separator          : "-"
 name                     : &name "Filip Ilievski"
 description              : &description "personal description"
-url                      : https://filipdbrsk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://filievski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "filipdbrsk/filipdbrsk.github.io"
+repository               : "filievski/filievski.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
