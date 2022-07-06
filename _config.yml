@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filip Ilievski's Homepage"
+title                    : "Filip Ilievski's Personal Website"
 title_separator          : "-"
 name                     : &name "Filip Ilievski"
 description              : &description "personal description"
@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "FILIP ILIEVSKI"
-  avatar           : "profile.jpg"
-  bio              : "Postdoctoral Researcher in Natural Language Processing"
-  location         : "Vrije Universiteit Amsterdam"
-  employer         :
+  avatar           : "cropped.jpg"
+  bio              : "Research Lead at USC/ISI & Research Assistant Professor at USC"
+  location         : "Marina del Rey, CA, USA"
+  employer         : "University of Southern California"
   googlescholar    : "https://scholar.google.nl/citations?user=4ZScBc0AAAAJ"
-  email            : "filip@ilievski.nl"
+  email            : "ilievski@isi.edu"
   uri              : #"https://www.slideshare.net/FilipIlievski1/"
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "filipdbrsk"
+  github           : "filievski"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : "filipilievski91/"
-  orcid            : "https://orcid.org/0000-0002-1735-0686?lang=en"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "earthling91"
+  twitter          : "Ilievski_KG"
   vine             :
   weibo            :
   xing             :
