@@ -103,25 +103,26 @@ Research Advisor (preconditions of commonsense knowledge)
 Avijit Thawani, PhD\
 Research Advisor (language model numeracy)
 
-Bin Zhang. MSc student worker. Mentor.
+Bin Zhang, MS\
+Research Mentor (organizing commonsense knowledge, and integration with language models)
 
-Hanzhi Zhang. MSc student worker. Mentor.
+Hanzhi Zhang, MS\
+Research Mentor (commonsense story generation and explanation)
 
-Nicholas Klein. MSc student worker/USC Rising star intern. Mentor.
+Nicholas Klein, MS (USC/ISI Rising star program)\
+Research Mentor (profiling Wikidata entities and identification of surprising facts)
 
-Jiri Brummer: Comparing various Machine Learning Methods for Element
-Extraction in Dutch Contracts. MSc thesis, Business Analytics, KPMG and
-VU Amsterdam. Mentor.
+Jiri Brummer, MS\
+MSc Thesis Mentor (comparing machine learning methods for element extraction in Dutch contracts)
 
-Guido Jansen: Low Resource Domain Specific Named Entity Recognition. MSc
-thesis, Information studies, Data science, University of Amsterdam.
-Second reader.
+Guido Jansen, MS\
+MSc Thesis Second Reader (low resource domain-specific named entity recognition)
 
-Arash Parnia: Mathematical Entity Recognition System MERCS. MSc thesis,
-Artificial Intelligence, VU Amsterdam. Second reader.
+Arash Parnia, MS\
+MSc Thesis Second Reader (mathematical entity recognition)
 
-Sai Sreewathsa Kovullari: Entity Typing with Page Ranking. MSc thesis,
-Computer Science, VU Amsterdam. Second reader.
+Sai Sreewathsa Kovullari, MS\
+MSc Thesis Second Reader (entity typing with page ranking)
 
 ## Guest Lectures
 
