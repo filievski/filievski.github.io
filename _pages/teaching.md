@@ -43,85 +43,87 @@ Bachelor (Undergraduate) course
 
 **Current**
 
-Peifeng Wang, PhD\
-Research Advisor (commonsense reasoning with knowledge graphs and language models)
-
-Harshit Manektalia, MS\
+Harshit Manektalia, MS, 2022-\
 Research Mentor (dimensional similarity of concepts)
 
-Vishnu Priya Prasanna Venkatesh, MS\
+Vishnu Priya Prasanna Venkatesh, MS, 2022-\
 Research Mentor (logical fallacy identification)
 
-Yifan Jiang, MS\
+Yifan Jiang, MS, 2022-\
 Research Mentor (procedural reasoning)
 
-Aravinda Kolla, MS\
+Aravinda Kolla, MS, 2022-\
 Research Mentor (situational awareness in traffic)
 
-Thiloshon Nagarajah, MS\
+Thiloshon Nagarajah, MS, 2022-\
 Research Mentor (analogical reasoning in narratives)
 
+Peifeng Wang, PhD, 2020-\
+Research Advisor (commonsense reasoning with knowledge graphs and language models)
 
 **Alumni**
 
-Shubham Akhilesh Singh, MS\
+Shubham Akhilesh Singh, MS, 2022\
 Research Mentor (knowledge graph question answering)
 
-Jiasheng Gu, MS\
+Jiasheng Gu, MS, 2022\
 Research Mentor (link prediction with critic language models)
 
-Dweepa Honnavali, MS\
+Dweepa Honnavali, MS, 2022\
 Research Mentor (commonsense story generation)
 
-Vaibhav Vats, MS\
+Vaibhav Vats, MS, 2022\
 Research Mentor (entity linking in Wikidata)
 
-Sukavanan Nanjundan, MS\
+Sukavanan Nanjundan, MS, 2022\
 Research Mentor (dimensional similarity of concepts)
 
-Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha, MS (CKIDS program)\
-Research Mentor (biases in commonsense knowledge sources)
+Jiang Wang, MS, 2021-2022\
+Research Mentor (link prediction with augmented knowledge graphs)
 
-Zaina Shaik, BS (NSF REU program)\
-Research Mentor (Biases in factual knowledge graphs)
-
-Jiarui Zhang, BS\
+Jiarui Zhang, BS, 2021-2022\
 Research Mentor (zero-shot commonsense reasoning with knowledge graphs)
 
-Bohui Zhang, MS\
+Bohui Zhang, MS, 2021-2022\
 Research Mentor (enriching Wikidata with linked open data)
 
-Pushkaraj Jitendra Sarnobat, MS\
-Research Mentor (scene graph generation)
-
-Kartik Shenoy, MS\
-Research Mentor (Wikidata quality and concept similarity)
-
-Ehsan Qasemi, PhD\
-Research Advisor (preconditions of commonsense knowledge)
-
-Avijit Thawani, PhD\
-Research Advisor (language model numeracy)
-
-Bin Zhang, MS\
-Research Mentor (organizing commonsense knowledge, and integration with language models)
-
-Hanzhi Zhang, MS\
-Research Mentor (commonsense story generation and explanation)
-
-Nicholas Klein, MS (USC/ISI Rising star program)\
+Nicholas Klein, MS (USC/ISI Rising star program), 2020-2022\
 Research Mentor (profiling Wikidata entities and identification of surprising facts)
 
-Jiri Brummer, MS\
+Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha, MS (CKIDS program), 2021\
+Research Mentor (biases in commonsense knowledge sources)
+
+Zaina Shaik, BS (NSF REU program), 2021\
+Research Mentor (Biases in factual knowledge graphs)
+
+Pushkaraj Jitendra Sarnobat, MS, 2021\
+Research Mentor (scene graph generation)
+
+Kartik Shenoy, MS, 2021-2022\
+Research Mentor (Wikidata quality and concept similarity)
+
+Ehsan Qasemi, PhD, 2020-2021\
+Research Advisor (preconditions of commonsense knowledge)
+
+Avijit Thawani, PhD, 2020-2021\
+Research Advisor (language model numeracy)
+
+Bin Zhang, MS, 2020-2021\
+Research Mentor (organizing commonsense knowledge, and integration with language models)
+
+Hanzhi Zhang, MS, 2020-2021\
+Research Mentor (commonsense story generation and explanation)
+
+Jiri Brummer, MS, 2019\
 MSc Thesis Mentor (comparing machine learning methods for element extraction in Dutch contracts)
 
-Guido Jansen, MS\
+Guido Jansen, MS, 2019\
 MSc Thesis Second Reader (low resource domain-specific named entity recognition)
 
-Arash Parnia, MS\
+Arash Parnia, MS, 2018\
 MSc Thesis Second Reader (mathematical entity recognition)
 
-Sai Sreewathsa Kovullari, MS\
+Sai Sreewathsa Kovullari, MS, 2016\
 MSc Thesis Second Reader (entity typing with page ranking)
 
 ## Guest Lectures
