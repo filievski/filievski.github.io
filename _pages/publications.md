@@ -8,9 +8,6 @@ author_profile: true
 
   See also: <u><a href="https://scholar.google.com/citations?user=4ZScBc0AAAAJ&hl=en">Google Scholar</a></u>
 
-{% include base_path %}
-
-
 # Publications
 
 1.  (under review) Kaixin Ma, **Filip Ilievski**, Jonathan Francis,
