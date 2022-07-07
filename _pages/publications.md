@@ -279,8 +279,8 @@ author_profile: true
     Resources and Evaluation (LREC'16). European Language Resources
     Association (ELRA). 541-548.
 
-45. Marieke van Erp, Pablo Mendes, Heiko Paulheim, [Filip
-    Ilievski]{.ul}, Julien Plu, Giuseppe Rizzo, Joerg Waitelonis (2016).
+45. Marieke van Erp, Pablo Mendes, Heiko Paulheim, **Filip
+    Ilievski**, Julien Plu, Giuseppe Rizzo, Joerg Waitelonis (2016).
     [Evaluating Entity Linking: An Analysis of Current Benchmark
     Datasets and a Roadmap for Doing a Better
     Job](http://www.lrec-conf.org/proceedings/lrec2016/pdf/926_Paper.pdf).
