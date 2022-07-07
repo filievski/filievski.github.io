@@ -61,7 +61,7 @@ Research Mentor (analogical reasoning in narratives)
 Peifeng Wang, PhD, 2020-\
 Research Advisor (commonsense reasoning with knowledge graphs and language models)
 
-**Alumni**
+**Past**
 
 Shubham Akhilesh Singh, MS, 2022\
 Research Mentor (knowledge graph question answering)
