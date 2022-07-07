@@ -9,62 +9,62 @@ author_profile: true
 
 **Building Knowledge Graphs (DSCI-558)**, upcoming (Fall 2022)\
 University of Southern California\
-Graduate course\
+Graduate course
 
 **Building Knowledge Graphs (DSCI-558)**, Fall 2020\
 University of Southern California\
-Graduate course \
+Graduate course
 
 **Text Mining**, Summer 2019\
 Central Bureau for Statistics (CBS) Netherlands \
-Private course\
+Government on-demand course
 
 **Text Mining**, Spring 2019\
 Vrije Universiteit Amsterdam\
-Bachelor (Undergraduate) course\
+Bachelor (Undergraduate) course
 
 **Python for Text Analysis**, Fall 2017\
 Vrije Universiteit Amsterdam\
-Master course\
+Master course
 
 **Programming for Humanities and Social Sciences**, Fall 2017\
 Vrije Universiteit Amsterdam\
-Bachelor course\
+Bachelor course
 
 **Digital and Environmental Humanities**\
 Vrije Universiteit Amsterdam\
-Master course\
+Master course
 
 **Information processing (Informatieverwerking)**, Fall 2016\
 Vrije Universiteit Amsterdam\
-Bachelor course\
+Bachelor course
 
 ## Mentoring
 
 
 ## Guest Lectures
 
-**Commonsense Knowledge Graphs**, Fall 2021
-Course: Building Knowledge Graphs (DSCI-558)
-University of Southern California
+**Commonsense Knowledge Graphs**, Fall 2021\
+Course: Building Knowledge Graphs (DSCI-558)\
+University of Southern California\
 Graduate course
 
-**Commonsense Knowledge Graphs**, Spring 2021
-Course: Building Knowledge Graphs (DSCI-558)
-University of Southern California
+**Commonsense Knowledge Graphs**, Spring 2021\
+Course: Building Knowledge Graphs (DSCI-558)\
+University of Southern California\
 Graduate course
 
-**Knowledge Graphs**, Fall 2020
-Course: Text Analytics (ISE-540)
-University of Southern California
+**Knowledge Graphs**, Fall 2020\
+Course: Text Analytics (ISE-540)\
+University of Southern California\
 Graduate course
 
-**KR and NLP: The curious case of entities**, Spring 2019
-Course: Knowledge Representation on the Web
-Vrije Universiteit Amsterdam
+**KR and NLP: The curious case of entities**, Spring 2019\
+Course: Knowledge Representation on the Web\
+Vrije Universiteit Amsterdam\
 Master course
 
-**NoSQL Databases**, Fall 2017
-Course: Databases
-Rijksuniversiteit Groningen
+**NoSQL Databases**, Fall 2017\
+Course: Databases\
+Rijksuniversiteit Groningen\
 Master course
