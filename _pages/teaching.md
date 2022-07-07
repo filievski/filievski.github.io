@@ -29,7 +29,7 @@ Master course
 
 **Programming for Humanities and Social Sciences**, Fall 2017\
 Vrije Universiteit Amsterdam\
-Bachelor course
+Bachelor (Undergraduate) course
 
 **Digital and Environmental Humanities**, Fall 2017\
 Vrije Universiteit Amsterdam\
@@ -37,51 +37,71 @@ Master course
 
 **Information processing (Informatieverwerking)**, Fall 2016\
 Vrije Universiteit Amsterdam\
-Bachelor course
+Bachelor (Undergraduate) course
 
 ## Mentoring
 
-Harshit Manektalia. MSc student worker. Mentor.
+**Current**
 
-Vishnu Priya Prasanna Venkatesh. MSc student worker. Mentor.
+Peifeng Wang, PhD\
+Research Advisor (commonsense reasoning with knowledge graphs and language models)
 
-Yifan Jiang. MSc student worker. Mentor.
+Harshit Manektalia, MS\
+Research Mentor (dimensional similarity of concepts)
 
-Aravinda Kolla. MSc student worker. Mentor.
+Vishnu Priya Prasanna Venkatesh, MS\
+Research Mentor (logical fallacy identification)
 
-Thiloshon Nagarajah. MSc student worker. Mentor.
+Yifan Jiang, MS\
+Research Mentor (procedural reasoning)
 
-Shubham Akhilesh Singh. MSc student worker. Mentor.
+Aravinda Kolla, MS\
+Research Mentor (situational awareness in traffic)
 
-Jiasheng Gu. MSc student. Directed research mentor.
+Thiloshon Nagarajah, MS\
+Research Mentor (analogical reasoning in narratives)
 
-Dweepa Honnavali. MSc student worker. Mentor.
 
-Vaibhav Vats. MSc student volunteer. Mentor.
+**Alumni**
 
-Sukavanan Nanjundan. MSc student worker. Mentor.
+Shubham Akhilesh Singh, MS\
+Research Mentor (knowledge graph question answering)
 
-Aditya Malte. MSc student worker. Mentor.
+Jiasheng Gu, MS\
+Research Mentor (link prediction with critic language models)
 
-Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha. CKIDS students.
-Mentor.
+Dweepa Honnavali, MS\
+Research Mentor (commonsense story generation)
 
-Zaina Shaik, Undergraduate summer intern (NSF REU program). UC Berkeley.
-Mentor.
+Vaibhav Vats, MS\
+Research Mentor (entity linking in Wikidata)
 
-Jiarui Zhang, Undergraduate summer intern. Tsinghua University. Mentor.
+Sukavanan Nanjundan, MS\
+Research Mentor (dimensional similarity of concepts)
 
-Bohui Zhang. MSc student worker. Mentor.
+Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha, MS (CKIDS program)\
+Research Mentor (biases in commonsense knowledge sources)
 
-Pushkaraj Jitendra Sarnobat. MSc volunteer. Mentor.
+Zaina Shaik, BS (NSF REU program)\
+Research Mentor (Biases in factual knowledge graphs)
 
-Kartik Shenoy. MSc student worker. Mentor.
+Jiarui Zhang, BS\
+Research Mentor (zero-shot commonsense reasoning with knowledge graphs)
 
-Ehsan Qasemi, PhD student. University of Southern California. Advisor.
+Bohui Zhang, MS\
+Research Mentor (enriching Wikidata with linked open data)
 
-Avijit Thawani, PhD student. University of Southern California. Advisor.
+Pushkaraj Jitendra Sarnobat, MS\
+Research Mentor (scene graph generation)
 
-Peifeng Wang, PhD student. University of Southern California. Advisor.
+Kartik Shenoy, MS\
+Research Mentor (Wikidata quality and concept similarity)
+
+Ehsan Qasemi, PhD\
+Research Advisor (preconditions of commonsense knowledge)
+
+Avijit Thawani, PhD\
+Research Advisor (language model numeracy)
 
 Bin Zhang. MSc student worker. Mentor.
 
