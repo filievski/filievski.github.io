@@ -114,16 +114,16 @@ Research Mentor (organizing commonsense knowledge, and integration with language
 **Hanzhi Zhang**, MS, 2020-2021\
 Research Mentor (commonsense story generation and explanation)
 
-Jiri Brummer, MS, 2019\
+**Jiri Brummer**, MS, 2019\
 MSc Thesis Mentor (comparing machine learning methods for element extraction in Dutch contracts)
 
-Guido Jansen, MS, 2019\
+**Guido Jansen**, MS, 2019\
 MSc Thesis Second Reader (low resource domain-specific named entity recognition)
 
-Arash Parnia, MS, 2018\
+**Arash Parnia**, MS, 2018\
 MSc Thesis Second Reader (mathematical entity recognition)
 
-Sai Sreewathsa Kovullari, MS, 2016\
+**Sai Sreewathsa Kovullari**, MS, 2016\
 MSc Thesis Second Reader (entity typing with page ranking)
 
 ## Guest Lectures
