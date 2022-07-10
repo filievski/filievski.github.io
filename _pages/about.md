@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Research Lead at the Center on Knowledge Graphs within USC's Information Sciences Institute (ISI), and Research Assistant Professor at the USC Viterbi School of Engineering. I obtained my MSc degree in Artificial Intelligence and a PhD in Natural Language Processing at the Vrije Universiteit (VU) in Amsterdam.
+# Filip Ilievski
+
+* Research Lead, USC Information Sciences Institute
+* Research Assistant Professor, USC CS
+* Areas: AI, Commonsense Reasoning, Knowledge Graphs, Information Extraction
+* PhD, Vrije University Amsterdam (2015-2019)
+* Research Visitor, Carnegie Mellon University (2017)
+* MS, Vrije University Amsterdam (2013-2015)
+* BS, Ss. Cyril and Methodius University Skopje (2009-2013)
+* Email: ilievski@isi.edu
 
 
