@@ -17,7 +17,9 @@ redirect_from:
 * **BS**, Ss. Cyril and Methodius University Skopje (2009-2013)
 * **Email:** ilievski@isi.edu
 
-**Prospective USC students:** You are a USC student with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems? Let me know. I am usually looking for strong and motivated students. I prefer paid positions (as long as funds are available) or Directed research. Apply for position 1066 [here](https://www.isi.edu/ms_student_positions/) and/or shoot me an email.
+**Prospective USC students** 
+
+You are a USC student with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems? Let me know. I am usually looking for strong and motivated students. I prefer paid positions (as long as funds are available) or Directed research. Apply for position 1066 [here](https://www.isi.edu/ms_student_positions/) and/or shoot me an email.
 
 **News**
 * Teaching DSCI-558: Building Knowledge Graphs with [Jay Pujara](https://www.jaypujara.org/)
