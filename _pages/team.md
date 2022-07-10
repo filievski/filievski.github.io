@@ -43,64 +43,52 @@ Recency of Knowledge Graphs
 ## Past
 
 **Shubham Akhilesh Singh**, MS, 2022\
-Research Mentor (knowledge graph question answering)
+Knowledge graph question answering
 
 **Jiasheng Gu**, MS, 2022\
-Research Mentor (link prediction with critic language models)
+Link prediction with critic language models
 
 **Dweepa Honnavali**, MS, 2022\
-Research Mentor (commonsense story generation)
+Commonsense story generation
 
 **Vaibhav Vats**, MS, 2022\
-Research Mentor (entity linking in Wikidata)
+Entity linking in Wikidata
 
 **Sukavanan Nanjundan**, MS, 2022\
-Research Mentor (dimensional similarity of concepts)
+Dimensional similarity of concepts
 
 **Jiang Wang**, MS, 2021-2022\
-Research Mentor (link prediction with augmented knowledge graphs)
+Link prediction with augmented knowledge graphs
 
 **Jiarui Zhang**, BS, 2021-2022\
-Research Mentor (zero-shot commonsense reasoning with knowledge graphs)
+Zero-shot commonsense reasoning with knowledge graphs
 
 **Bohui Zhang**, MS, 2021-2022\
-Research Mentor (enriching Wikidata with linked open data)
+Enriching Wikidata with linked open data
 
 **Nicholas Klein**, MS (USC/ISI Rising star program), 2020-2022\
-Research Mentor (profiling Wikidata entities and identification of surprising facts)
+Profiling Wikidata entities and identification of surprising facts
 
 **Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha**, MS (CKIDS program), 2021\
-Research Mentor (biases in commonsense knowledge sources)
+Biases in commonsense knowledge sources
 
 **Zaina Shaik**, BS (NSF REU program), 2021\
-Research Mentor (Biases in factual knowledge graphs)
+Biases in factual knowledge graphs
 
 **Pushkaraj Jitendra Sarnobat**, MS, 2021\
-Research Mentor (scene graph generation)
+Scene graph generation
 
 **Kartik Shenoy**, MS, 2021-2022\
-Research Mentor (Wikidata quality and concept similarity)
+Wikidata quality and concept similarity
 
 **Ehsan Qasemi**, PhD, 2020-2021\
-Research Advisor (preconditions of commonsense knowledge)
+Preconditions of commonsense knowledge
 
 **Avijit Thawani**, PhD, 2020-2021\
-Research Advisor (language model numeracy)
+Language model numeracy
 
 **Bin Zhang**, MS, 2020-2021\
-Research Mentor (organizing commonsense knowledge, and integration with language models)
+Organizing commonsense knowledge, and integration with language models
 
 **Hanzhi Zhang**, MS, 2020-2021\
-Research Mentor (commonsense story generation and explanation)
-
-**Jiri Brummer**, MS, 2019\
-MSc Thesis Mentor (comparing machine learning methods for element extraction in Dutch contracts)
-
-**Guido Jansen**, MS, 2019\
-MSc Thesis Second Reader (low resource domain-specific named entity recognition)
-
-**Arash Parnia**, MS, 2018\
-MSc Thesis Second Reader (mathematical entity recognition)
-
-**Sai Sreewathsa Kovullari**, MS, 2016\
-MSc Thesis Second Reader (entity typing with page ranking)
+Commonsense story generation and explanation
