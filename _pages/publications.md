@@ -77,8 +77,7 @@ author_profile: true
 
 14. Kaixin Ma, **Filip Ilievski**, Jonathan Francis, Satoru Ozaki,
     Eric Nyberg, Alessandro Oltramari (2021). [Exploring Strategies for
-    Generalizable Commonsense Reasoning with Pre-trained
-    Models](https://arxiv.org/pdf/2109.02837.pdf). In Proceedings of the
+    Generalizable Commonsense Reasoning with Pre-trained Models](https://arxiv.org/pdf/2109.02837.pdf). In Proceedings of the
     2021 Conference on Empirical Methods in Natural Language Processing
     (EMNLP).
 
