@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "Welcome"
+title: "Filip Ilievski"
+excerpt: "Filip Ilievski"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Filip Ilievski
 
 * Research Lead, USC Information Sciences Institute
 * Research Assistant Professor, USC CS
