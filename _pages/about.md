@@ -20,6 +20,7 @@ redirect_from:
 **Prospective USC Students** with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems should apply for position 1066 [here](https://www.isi.edu/ms_student_positions/) (or shoot me an email).
 
 ## News
+**2022**
 * Teaching DSCI-558: Building Knowledge Graphs with [Jay Pujara](https://www.jaypujara.org/)
 * Visiting my collaborator [Riccardo Tommasini](https://riccardotommasini.com/) at the University of Lyon in the week of July 18th (if you happen to be nearby, let me know)
 * Attending IJCAI-22 in Vienna to present our main conference paper [Augmenting Knowledge Graphs for Better Link Prediction
