@@ -17,7 +17,8 @@ redirect_from:
 * **BS**, Ss. Cyril and Methodius University Skopje (2009-2013)
 * **Email:** ilievski@isi.edu
 
-**Prospective USC Students** with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems should apply for position 1066 [here](https://www.isi.edu/ms_student_positions/) (or shoot me an email).
+## Prospective USC Students 
+I like working with strong USC students with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems. Master students: apply for [position 1066](https://www.isi.edu/ms_student_positions/), Undergraduate and PhD students: send me an email.
 
 ## News
 **2022**
