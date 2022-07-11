@@ -8,17 +8,18 @@ author_profile: true
 
 <table width="600px">
 <tr>
-<td>
+<td class="center-block">
 <img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
   <p><b>Peifeng Wang</b>, 2020-<br/>
     Commonsense reasoning with knowledge graphs and language models</p>
 </td>
-<td>
+<td class="center-block">
 <img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
 <p><b>Zhivar Sourati</b>, 2022-<br/>
   Robust and explainable commonsense reasoning</p>
 </td>
-  <td>
+  <td class="center-block">
+    <img height="200px" class="center-block" src="../images/Jiarui-Zhang.jpeg">
     <p><b>Jiarui Zhang</b>, 2022-<br/>
       Intelligent traffic monitoring</p>
 
