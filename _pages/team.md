@@ -10,13 +10,13 @@ author_profile: true
 <tr>
 <td>
 <img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
-**Peifeng Wang**, 2020-\
-Commonsense reasoning with knowledge graphs and language models
+  <p><b>Peifeng Wang</b>, 2020-<br/>
+    Commonsense reasoning with knowledge graphs and language models</p>
 </td>
 <td>
 <img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
-**Zhivar Sourati**, 2022-\
-Robust and explainable commonsense reasoning
+<p><b>Zhivar Sourati</b>, 2022-<br/>
+  Robust and explainable commonsense reasoning</p>
 
 
 </td>
