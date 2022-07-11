@@ -39,7 +39,7 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Harshit-Manektalia.jpeg">
+<img style="height:200px" src="../images/Harshit-Manektalia.png">
 </td>
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Vishnu-Priya.jpeg">
@@ -89,7 +89,10 @@ author_profile: true
   </tr>
 </table>
 
-<h2>Undergraduate Students</h2>
+<h2>Summer Interns (2022)</h2>
+
+**Ana Iglesias**, 2022-\
+Modeling Temporal Knowledge Graphs
 
 **Lucas Zhuang**, 2022-\
 Temporal Knowledge Graphs
