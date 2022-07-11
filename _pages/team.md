@@ -6,7 +6,7 @@ author_profile: true
 
 ## PhD Students
 
-<table width="600px" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
+<table width="600px" "border-collapse: collapse; border: none;">
 <tr>
 <td class="center-block">
 <img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
