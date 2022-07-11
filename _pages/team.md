@@ -6,7 +6,7 @@ author_profile: true
 
 ## PhD Students
 
-<table>
+<table width="600px">
 <tr>
 <td>
 <img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
@@ -17,16 +17,17 @@ author_profile: true
 <img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
 <p><b>Zhivar Sourati</b>, 2022-<br/>
   Robust and explainable commonsense reasoning</p>
-
-
 </td>
+  <td>
+    <p><b>Jiarui Zhang</b>, 2022-<br/>
+      Intelligent traffic monitoring</p>
+
+  </td>
 </tr>
 </table>
 
 
 
-**Jiarui Zhang**, 2022-\
-Intelligent traffic monitoring
 
 
 ## Master Students
