@@ -8,29 +8,29 @@ author_profile: true
 
 <table width="600px" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td style="text-align: center; height: 200px; border: none">
+<td style="text-align: center; border: none">
 <img height="200" src="../images/Peifeng-Wang.jpeg">
 
 </td>
-<td style="text-align: center; height: 200px; border: none">
+<td style="text-align: center; border: none">
 <img height="200" src="../images/Zhivar-Sourati.jpeg">
 </td>
-  <td style="text-align: center; height: 200px; border: none">
+  <td style="text-align: center; border: none">
     <img height="200" src="../images/Jiarui-Zhang.jpeg">
     
 
   </td>
 </tr>
 <tr style="border: none;">
-  <td style="text-align: center; width: 200px; border: none">  
+  <td style="text-align: center; border: none">  
     <p><b>Peifeng Wang</b>, 2020-<br/>
     Commonsense reasoning with knowledge graphs and language models</p>
   </td>
-  <td style="text-align: center; width: 200px; border: none">
+  <td style="text-align: center; border: none">
     <p><b>Zhivar Sourati</b>, 2022-<br/>
   Robust and explainable commonsense reasoning with analogies</p>
   </td>
-  <td style="text-align: center; width: 200px; border: none">
+  <td style="text-align: center; border: none">
     <p><b>Jiarui Zhang</b>, 2022-<br/>
       Intelligent traffic monitoring</p>
   </td>
