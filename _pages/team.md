@@ -9,14 +9,14 @@ author_profile: true
 <table width="600px" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td style="text-align: center; width: 200px">
-<img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
+<img class="center-block" src="../images/Peifeng-Wang.jpeg">
 
 </td>
 <td style="text-align: center; width: 200px">
-<img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
+<img class="center-block" src="../images/Zhivar-Sourati.jpeg">
 </td>
   <td style="text-align: center; width: 200px">
-    <img height="200px" class="center-block" src="../images/Jiarui-Zhang.jpeg">
+    <img class="center-block" src="../images/Jiarui-Zhang.jpeg">
     
 
   </td>
