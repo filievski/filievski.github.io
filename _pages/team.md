@@ -75,7 +75,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Aravinda Kolla/b>, MS, 2022-<br/>
+    <p><b>Aravinda Kolla</b>, MS, 2022-<br/>
     Situational awareness in traffic</p>
   </td>
   <td style="text-align: center; border: none">
