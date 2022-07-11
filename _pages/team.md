@@ -9,13 +9,13 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px; width:auto" src="../images/Peifeng-Wang.jpeg">
+<img style="max-height:100%; max-width:100%" src="../images/Peifeng-Wang.jpeg">
 </td>
   <td style="text-align: center; border: none">
-        <img style="height:200px; width:auto" src="../images/Zhivar-Sourati.jpeg">
+        <img style="max-height:100%; max-width:100%" src="../images/Zhivar-Sourati.jpeg">
   </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px; width:auto" src="../images/Jiarui-Zhang.jpeg">
+    <img style="max-height:100%; max-width:100%" src="../images/Jiarui-Zhang.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
@@ -38,14 +38,14 @@ author_profile: true
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
-<td style="text-align: center; border: none">
-<img style="height:200px; width:auto" src="../images/Harshit-Manektalia.png">
+<td style="text-align: center; border: none; width:33%">
+<img style="max-height:100%; max-width:100%" src="../images/Harshit-Manektalia.png">
 </td>
-  <td style="text-align: center; border: none">
-    <img style="height:200px; width:auto" src="../images/Vishnu-Priya.jpeg">
+  <td style="text-align: center; border: none; width:33%">
+    <img style="max-height:100%; max-width:100%" src="../images/Vishnu-Priya.jpeg">
   </td>
-  <td style="text-align: center; border: none">
-<img style="height:200px; width:auto" src="../images/Yifan-Jiang.jpeg">
+  <td style="text-align: center; border: none; width:33%">
+<img style="max-height:100%; max-width:100%" src="../images/Yifan-Jiang.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
@@ -64,13 +64,13 @@ author_profile: true
   </tr>
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px; width:auto" src="../images/Aravinda-Kolla.jpeg">
+<img style="max-height:100%; max-width:100%" src="../images/Aravinda-Kolla.jpeg">
 </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px; width:auto" src="../images/Thiloshon-Nagarajah.jpeg">
+    <img style="max-height:100%; max-width:100%" src="../images/Thiloshon-Nagarajah.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img style="height:200px; width:auto" src="../images/Abhinav-Thakur.jpeg">
+<img style="max-height:100%; max-width:100%" src="../images/Abhinav-Thakur.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
