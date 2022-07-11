@@ -95,7 +95,7 @@ author_profile: true
 Modeling Temporal Knowledge Graphs
 
 **Lucas Zhuang**, 2022-\
-Temporal Knowledge Graphs
+Knowledge Graph Fact Verification
 
 ## Past
 
