@@ -8,18 +8,8 @@ author_profile: true
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+<img height="600px" class="center-block" src="../assets/Peifeng-Wang.jpg">
 
 </td>
 <td>
