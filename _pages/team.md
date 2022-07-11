@@ -7,7 +7,7 @@ author_profile: true
 ## PhD Students
 
 <table width="600px" style="border-collapse: collapse; border: none;">
-<tr>
+<tr style="border: none;">
 <td style="text-align: center">
 <img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
 
@@ -21,7 +21,7 @@ author_profile: true
 
   </td>
 </tr>
-<tr>
+<tr style="border: none;">
   <td>  
     <p><b>Peifeng Wang</b>, 2020-<br/>
     Commonsense reasoning with knowledge graphs and language models</p>
