@@ -12,10 +12,10 @@ author_profile: true
 <img style="height:200px" src="../images/Peifeng-Wang.jpeg">
 </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
+        <img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
+    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
