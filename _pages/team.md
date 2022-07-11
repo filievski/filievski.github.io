@@ -39,13 +39,13 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Peifeng-Wang.jpeg">
+<img style="height:200px" src="../images/Harshit-Manektalia.jpeg">
 </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
+    <img style="height:200px" src="../images/Vishnu-Priya.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
+<img style="height:200px" src="../images/Yifan-Jiang.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
@@ -64,13 +64,13 @@ author_profile: true
   </tr>
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Peifeng-Wang.jpeg">
+<img style="height:200px" src="../images/Aravinda-Kolla.jpeg">
 </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
+    <img style="height:200px" src="../images/Thiloshon-Nagarajah.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
+<img style="height:200px" src="../images/Abhinav-Thakur.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
