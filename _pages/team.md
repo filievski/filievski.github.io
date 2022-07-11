@@ -6,6 +6,35 @@ author_profile: true
 
 ## PhD Students
 
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
+
 **Peifeng Wang**, 2020-\
 Commonsense reasoning with knowledge graphs and language models
 
