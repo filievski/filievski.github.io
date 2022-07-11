@@ -9,30 +9,25 @@ author_profile: true
 <table>
 <tr>
 <td>
-<img height="600px" class="center-block" src="../images/Peifeng-Wang.jpeg">
-
+<img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
+**Peifeng Wang**, 2020-\
+Commonsense reasoning with knowledge graphs and language models
 </td>
 <td>
+<img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
+**Zhivar Sourati**, 2022-\
+Robust and explainable commonsense reasoning
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
 
 </td>
 </tr>
 </table>
 
-**Peifeng Wang**, 2020-\
-Commonsense reasoning with knowledge graphs and language models
+
 
 **Jiarui Zhang**, 2022-\
 Intelligent traffic monitoring
 
-**Zhivar Sourati**, 2022-\
-Robust and explainable commonsense reasoning
 
 ## Master Students
 
