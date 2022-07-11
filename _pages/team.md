@@ -39,13 +39,13 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Harshit-Manektalia.png">
+<img style="height:auto" src="../images/Harshit-Manektalia.png">
 </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Vishnu-Priya.jpeg">
+    <img style="height:auto" src="../images/Vishnu-Priya.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Yifan-Jiang.jpeg">
+<img style="height:auto" src="../images/Yifan-Jiang.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
