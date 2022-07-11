@@ -10,16 +10,13 @@ author_profile: true
 <tr style="border: none;">
 <td style="text-align: center; border: none">
 <img height="200" src="../images/Peifeng-Wang.jpeg">
-
-</td>
-<td style="text-align: center; border: none">
-<img height="200" src="../images/Zhivar-Sourati.jpeg">
 </td>
   <td style="text-align: center; border: none">
     <img height="200" src="../images/Jiarui-Zhang.jpeg">
-    
-
   </td>
+  <td style="text-align: center; border: none">
+<img height="200" src="../images/Zhivar-Sourati.jpeg">
+</td>
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
