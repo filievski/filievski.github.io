@@ -16,7 +16,7 @@ author_profile: true
 <td class="center-block">
 <img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
 <p><b>Zhivar Sourati</b>, 2022-<br/>
-  Robust and explainable commonsense reasoning</p>
+  Robust and explainable commonsense reasoning with analogies</p>
 </td>
   <td class="center-block">
     <img height="200px" class="center-block" src="../images/Jiarui-Zhang.jpeg">
