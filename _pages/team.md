@@ -50,7 +50,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Harshit Manektalia</b>, MS, 2022-br/>
+    <p><b>Harshit Manektalia</b>, MS, 2022-<br/>
     Dimensional similarity of concepts</p>
   </td>
   <td style="text-align: center; border: none">
@@ -62,17 +62,32 @@ author_profile: true
       Procedural reasoning</p>
   </td>
   </tr>
+  <tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Peifeng-Wang.jpeg">
+</td>
+  <td style="text-align: center; border: none">
+    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
+  </td>
+  <td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
+</td>
+</tr>
+<tr style="border: none;">
+  <td style="text-align: center; border: none">  
+    <p><b>Aravinda Kolla/b>, MS, 2022-<br/>
+    Situational awareness in traffic</p>
+  </td>
+  <td style="text-align: center; border: none">
+    <p><b>Thiloshon Nagarajah</b>, MS, 2022-<br/>
+  Analogical reasoning in narratives</p>
+  </td>
+  <td style="text-align: center; border: none">
+    <p><b>Abhinav Kumar Thakur</b>, MS, 2022-<br/>
+      Knowledge Graph Fact Verification</p>
+  </td>
+  </tr>
 </table>
-
-
-**Aravinda Kolla**, MS, 2022-\
-Situational awareness in traffic
-
-**Thiloshon Nagarajah**, MS, 2022-\
-Analogical reasoning in narratives
-
-**Abhinav Kumar Thakur**, MS, 2022-\
-Knowledge Graph Fact Verification
 
 <h2>Undergraduate Students</h2>
 
