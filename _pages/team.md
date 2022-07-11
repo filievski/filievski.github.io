@@ -9,13 +9,13 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img height="200" src="../images/Peifeng-Wang.jpeg">
+<img style="height:150px" src="../images/Peifeng-Wang.jpeg">
 </td>
   <td style="text-align: center; border: none">
-    <img height="200" src="../images/Jiarui-Zhang.jpeg">
+    <img style="height:150px" src="../images/Jiarui-Zhang.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img height="200" src="../images/Zhivar-Sourati.jpeg">
+<img style="height:150px" src="../images/Zhivar-Sourati.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
