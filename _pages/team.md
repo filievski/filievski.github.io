@@ -32,7 +32,7 @@ author_profile: true
   </td>
   <td style="text-align: center; border: none">
     <p><b>Jiarui Zhang</b>, 2022-<br/>
-      Intelligent traffic monitoring</p>
+      Knowledge-enhanced intelligent traffic monitoring</p>
   </td>
   </tr>
 </table>
