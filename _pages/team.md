@@ -6,25 +6,35 @@ author_profile: true
 
 ## PhD Students
 
-<table width="600px" "border-collapse: collapse; border: none;">
+<table width="600px" style="border-collapse: collapse; border: none;">
 <tr>
 <td style="text-align: center">
 <img height="200px" class="center-block" src="../images/Peifeng-Wang.jpeg">
-  <p><b>Peifeng Wang</b>, 2020-<br/>
-    Commonsense reasoning with knowledge graphs and language models</p>
+
 </td>
 <td style="text-align: center">
 <img height="200px" class="center-block" src="../images/Zhivar-Sourati.jpeg">
-<p><b>Zhivar Sourati</b>, 2022-<br/>
-  Robust and explainable commonsense reasoning with analogies</p>
 </td>
   <td style="text-align: center">
     <img height="200px" class="center-block" src="../images/Jiarui-Zhang.jpeg">
-    <p><b>Jiarui Zhang</b>, 2022-<br/>
-      Intelligent traffic monitoring</p>
+    
 
   </td>
 </tr>
+<tr>
+  <td>  
+    <p><b>Peifeng Wang</b>, 2020-<br/>
+    Commonsense reasoning with knowledge graphs and language models</p>
+  </td>
+  <td>
+    <p><b>Zhivar Sourati</b>, 2022-<br/>
+  Robust and explainable commonsense reasoning with analogies</p>
+  </td>
+  <td>
+    <p><b>Jiarui Zhang</b>, 2022-<br/>
+      Intelligent traffic monitoring</p>
+  </td>
+  </tr>
 </table>
 
 
