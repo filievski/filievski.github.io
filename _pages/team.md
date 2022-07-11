@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>PhD Students</h2>
 
-<table width="600px" style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
 <img height="200" src="../images/Peifeng-Wang.jpeg">
