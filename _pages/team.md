@@ -4,18 +4,18 @@ permalink: /team/
 author_profile: true
 ---
 
-<h2>PhD Students</h2>
+## PhD Students
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:150px" src="../images/Peifeng-Wang.jpeg">
+<img style="height:200px" src="../images/Peifeng-Wang.jpeg">
 </td>
   <td style="text-align: center; border: none">
-    <img style="height:150px" src="../images/Jiarui-Zhang.jpeg">
+    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
   </td>
   <td style="text-align: center; border: none">
-<img style="height:150px" src="../images/Zhivar-Sourati.jpeg">
+<img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
@@ -34,20 +34,36 @@ author_profile: true
   </tr>
 </table>
 
+## Master Students
 
+<table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
+<tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Peifeng-Wang.jpeg">
+</td>
+  <td style="text-align: center; border: none">
+    <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
+  </td>
+  <td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
+</td>
+</tr>
+<tr style="border: none;">
+  <td style="text-align: center; border: none">  
+    <p><b>Harshit Manektalia</b>, MS, 2022-br/>
+    Dimensional similarity of concepts</p>
+  </td>
+  <td style="text-align: center; border: none">
+    <p><b>Vishnu Priya Prasanna Venkatesh</b>, MS, 2022-<br/>
+  Logical fallacy identification</p>
+  </td>
+  <td style="text-align: center; border: none">
+    <p><b>Yifan Jiang</b>, MS, 2022-<br/>
+      Procedural reasoning</p>
+  </td>
+  </tr>
+</table>
 
-
-
-<h1>Master Students</h1>
-
-**Harshit Manektalia**, MS, 2022-\
-Dimensional similarity of concepts
-
-**Vishnu Priya Prasanna Venkatesh**, MS, 2022-\
-Logical fallacy identification
-
-**Yifan Jiang**, MS, 2022-\
-Procedural reasoning
 
 **Aravinda Kolla**, MS, 2022-\
 Situational awareness in traffic
@@ -58,10 +74,10 @@ Analogical reasoning in narratives
 **Abhinav Kumar Thakur**, MS, 2022-\
 Knowledge Graph Fact Verification
 
-<h1>Undergraduate Students</h1>
+<h2>Undergraduate Students</h2>
 
 **Lucas Zhuang**, 2022-\
-Recency of Knowledge Graphs
+Temporal Knowledge Graphs
 
 ## Past
 
