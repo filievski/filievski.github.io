@@ -9,7 +9,7 @@ author_profile: true
 <table>
 <tr>
 <td>
-<img height="600px" class="center-block" src="images/Peifeng-Wang.jpeg">
+<img height="600px" class="center-block" src="../images/Peifeng-Wang.jpeg">
 
 </td>
 <td>
