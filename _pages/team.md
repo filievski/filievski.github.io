@@ -39,7 +39,7 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none; width:33%">
-<img style="height:200px" src="../images/Harshit-Manektalia.png">
+<img style="height:200px" src="../images/Himanshu.jpeg">
 </td>
   <td style="text-align: center; border: none; width:33%">
     <img style="height:200px" src="../images/Vishnu-Priya.jpeg">
@@ -49,9 +49,9 @@ author_profile: true
 </td>
 </tr>
 <tr style="border: none;">
-  <td style="text-align: center; border: none">  
-    <p><b>Harshit Manektalia</b>, MS, 2022-<br/>
-    Dimensional similarity of concepts</p>
+  <td style="text-align: center; border: none">
+    <p><b>Himanshu Rawlani</b>, MS, 2022-<br/>
+  Propaganda detection</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Vishnu Priya Prasanna Venkatesh</b>, MS, 2022-<br/>
@@ -76,7 +76,7 @@ author_profile: true
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
     <p><b>Aravinda Kolla</b>, MS, 2022-<br/>
-    Situational awareness in traffic</p>
+    Slang understanding</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Thiloshon Nagarajah</b>, MS, 2022-<br/>
@@ -84,7 +84,24 @@ author_profile: true
   </td>
   <td style="text-align: center; border: none">
     <p><b>Abhinav Kumar Thakur</b>, MS, 2022-<br/>
-      Knowledge Graph Fact Verification</p>
+      Slang understanding</p>
+  </td>
+  </tr>
+    <tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Prateek.png">
+</td>
+  <td style="text-align: center; border: none"></td>
+  <td style="text-align: center; border: none"></td>
+</tr>
+<tr style="border: none;">
+  <td style="text-align: center; border: none">  
+    <p><b>Prateek Chhikara</b>, MS, 2022-<br/>
+    Text-based games with commonsense reasoning</p>
+  </td>
+  <td style="text-align: center; border: none">
+  </td>
+  <td style="text-align: center; border: none">
   </td>
   </tr>
 </table>
