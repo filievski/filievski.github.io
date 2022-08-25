@@ -120,6 +120,9 @@ Knowledge Graph Fact Verification
 
 ## Past
 
+**Harshit Manektalia**, MS, 2022\
+Dimensional similarity of concepts
+
 **Shubham Akhilesh Singh**, MS, 2022\
 Knowledge graph question answering
 
