@@ -76,22 +76,24 @@ author_profile: true
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
     <p><b>Aravinda Kolla</b>, MS, 2022-<br/>
-    Slang understanding</p>
+    Slang representation learning</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Thiloshon Nagarajah</b>, MS, 2022-<br/>
-  Analogical reasoning in narratives</p>
+   Understanding affordances in procedures</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Abhinav Kumar Thakur</b>, MS, 2022-<br/>
-      Slang understanding</p>
+      Meme understanding</p>
   </td>
   </tr>
     <tr style="border: none;">
 <td style="text-align: center; border: none">
 <img style="height:200px" src="../images/Prateek.png">
 </td>
-  <td style="text-align: center; border: none"></td>
+  <td style="text-align: center; border: none">
+      <img style="height:200px" src="../images/Darshan.png">    
+  </td>
   <td style="text-align: center; border: none"></td>
 </tr>
 <tr style="border: none;">
@@ -100,6 +102,8 @@ author_profile: true
     Text-based games with commonsense reasoning</p>
   </td>
   <td style="text-align: center; border: none">
+    <p><b>Darshan Girish Deshpande</b>, MS, 2022-<br/>
+    Active learning</p>
   </td>
   <td style="text-align: center; border: none">
   </td>
