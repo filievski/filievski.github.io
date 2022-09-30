@@ -24,8 +24,12 @@ I like collaborating with strong students with passion for AI research and learn
 
 ## News
 **2022**
+* Our team has a lab session on the Knowledge Graph Toolkit (KGTK) and a tutorial on generalizable commonsense reasoning accepted for presentation at AAAI 2023!
+* The KGTK team has five papers accepted at the [Wikidata-22 workshop](https://wikidataworkshop.github.io/2022/).
+* Presenting a session on Common Sense and Explainability at the [US2TS symposium](https://us2ts.org/2022/program) on September 30th
+* Attending the Dagstuhl Seminar on [Knowledge Graphs and their Role in the Knowledge Engineering of the 21st Century](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22372) on September 11-14th
 * Teaching DSCI-558: Building Knowledge Graphs with [Jay Pujara](https://www.jaypujara.org/)
-* Visiting my collaborator [Riccardo Tommasini](https://riccardotommasini.com/) at the University of Lyon in the week of July 18th (if you happen to be nearby, let me know)
+* Visiting my collaborator [Riccardo Tommasini](https://riccardotommasini.com/) at the University of Lyon in the week of July 18th 
 * Attending IJCAI-22 in Vienna to present our main conference paper [Augmenting Knowledge Graphs for Better Link Prediction
 ](https://arxiv.org/abs/2203.13965) and our Qualitative Reasoning workshop paper [Understanding Narratives through Dimensions of Analogy
 ](https://arxiv.org/abs/2206.07167)
