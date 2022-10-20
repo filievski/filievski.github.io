@@ -20,6 +20,15 @@ redirect_from:
 ## Collaborations
 I like collaborating with strong students with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems. Also, I am accepting applications for PhD students for Fall 2023. If interested, send me an email.
 
+## Funded Research 
+
+
+* Knowledge Graph Technology for Information Analytics (Swiss Cybersecurity department). Grant. F. Ilievski, P. Szekely. $112,817. 07/2022. 
+
+* Robust and Explainable AI Agents with Common Sense (NSF CRII). Grant. F. Ilievski. $175,000. 05/2022.
+
+* MoSAiC: Multi-modal architecture for holistic Situational Awareness in Contextual IoT (Bosch Research). Gift. F. Ilievski, $50,000, 12/2021.
+
 ## News
 **2022**
 * Our team has a lab session on the Knowledge Graph Toolkit (KGTK) and a tutorial on generalizable commonsense reasoning accepted for presentation at AAAI 2023!
