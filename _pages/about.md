@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-* **Research Lead**, USC Information Sciences Institute
-* **Research Assistant Professor**, USC CS
-* **Areas:** AI, Commonsense Reasoning, Knowledge Graphs, Information Extraction
+* **Assistant Professor, Sr. (UD1)**, Vrije Universiteit Amsterdam
+* **Affiliated Scientist**, USC Information Sciences Institute (USC/ISI)
+* **Affiliated Scientist**, Amsterdam Sustainability Institute (ASI)
+* **Areas:** Commonsense Reasoning, Human-Centric NLP, AI for Social Good
+* **Research Assistant Professor**, USC Computer Science (2022-2023)
+* **Research Scientist and Research Lead**, USC Information Sciences Institute (2019-2023)
 * **PhD**, Vrije University Amsterdam (2015-2019)
 * **Research Visitor**, Carnegie Mellon University (2017)
-* **MS**, Vrije University Amsterdam (2013-2015)
-* **BS**, Ss. Cyril and Methodius University Skopje (2009-2013)
-* **Email:** ilievski@isi.edu
+* **MSc**, Vrije University Amsterdam (2013-2015)
+* **BSc**, Ss. Cyril and Methodius University Skopje (2009-2013)
 
 ## Collaborations
 I like collaborating with strong students with passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems. Also, I am accepting applications for PhD students for Fall 2023. If interested, send me an email.
