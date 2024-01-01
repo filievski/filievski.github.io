@@ -11,11 +11,6 @@ We investigate **human-centric AI systems with common sense** that can team with
 
 We perform fundamental research on commonsense AI and investigate its application to challenging domains, informed by **empirical insights and cognitive theories**.
 
-We aim for: 
-* World-class research – aiming to have peers recognize, want to work with/at and visit us;
-* Dissemination of high-quality research findings through education and outreach
-* Meaningful collaboration to benefit from complementary ideas and skills
-
 ## Research Topics
 
 * **Commonsense Reasoning**(e.g., modeling story procedures, tracking participant states, and performing counterfactual inference; decision-making in everyday situations)
@@ -39,7 +34,7 @@ We aim for:
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Fabian Hoppe</b>, 2023-<br/>
+    <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
     Neuro-symbolic verification models</p>
   </td>
   <td style="text-align: center; border: none">
