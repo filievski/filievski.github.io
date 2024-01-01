@@ -6,7 +6,15 @@ author_profile: true
 
 ## Course Instructor
 
-**Building Knowledge Graphs (DSCI-558)**, upcoming (Fall 2022)\
+**Product Innovation Project (PIP)**, Spring semester, 2023/24\
+Vrije Universiteit Amsterdam\
+Bachelor course
+
+**Project Intelligent Systems (PrInS)**, Period 3, 2023/24\
+Vrije Universiteit Amsterdam\
+Bachelor course
+
+**Building Knowledge Graphs (DSCI-558)**, Fall 2022\
 University of Southern California\
 Graduate course
 
