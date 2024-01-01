@@ -4,12 +4,31 @@ permalink: /team/
 author_profile: true
 ---
 
+
+## What We Do
+
+We investigate **human-centric AI systems with common sense** that can team with people in intuitive and reliable ways.
+
+We perform fundamental research on commonsense AI and investigate its application to challenging domains, informed by **empirical insights and cognitive theories**.
+
+We aim for: 
+* World-class research – aiming to have peers recognize, want to work with/at and visit us;
+* Dissemination of high-quality research findings through education and outreach
+* Meaningful collaboration to benefit from complementary ideas and skills
+
+## Research Topics
+
+* **Commonsense Reasoning**(e.g., modeling story procedures, tracking participant states, and performing counterfactual inference; decision-making in everyday situations)
+* **Human-centric NLP**(e.g., drawing situational analogies according to cognitive theories; lateral thinking in AI; studying and building robust and explainable models)
+* **AI for Social Good**(e.g., value-aware detection of fallacies in arguments and hate speech in memes; what-if reasoning in traffic)
+
+
 ## PhD Students
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Peifeng-Wang.jpeg">
+<img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
 </td>
   <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
@@ -20,16 +39,16 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Peifeng Wang</b>, 2020-<br/>
-    Commonsense reasoning with knowledge graphs and language models</p>
+    <p><b>Fabian Hoppe</b>, 2023-<br/>
+    Neuro-symbolic verification models</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Zhivar Sourati</b>, 2022-<br/>
+    <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
   Robust and explainable commonsense reasoning with analogies</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Jiarui Zhang</b>, 2022-<br/>
-      Knowledge-enhanced intelligent traffic monitoring</p>
+    <p><b>Jiarui Zhang</b>, USC/ISI, 2022-<br/>
+      Multimodal complex reasoning</p>
   </td>
   </tr>
 </table>
@@ -38,71 +57,12 @@ author_profile: true
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
-<td style="text-align: center; border: none; width:33%">
-<img style="height:200px" src="../images/Himanshu.jpeg">
-</td>
-  <td style="text-align: center; border: none; width:33%">
-    <img style="height:200px" src="../images/Vishnu-Priya.jpeg">
-  </td>
-  <td style="text-align: center; border: none; width:33%">
-<img style="height:200px" src="../images/Yifan-Jiang.jpeg">
-</td>
-</tr>
-<tr style="border: none;">
-  <td style="text-align: center; border: none">
-    <p><b>Himanshu Rawlani</b>, MS, 2022-<br/>
-  Propaganda detection</p>
-  </td>
-  <td style="text-align: center; border: none">
-    <p><b>Vishnu Priya Prasanna Venkatesh</b>, MS, 2022-<br/>
-  Logical fallacy identification</p>
-  </td>
-  <td style="text-align: center; border: none">
-    <p><b>Yifan Jiang</b>, MS, 2022-<br/>
-      Procedural reasoning</p>
-  </td>
-  </tr>
-  <tr style="border: none;">
-<td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Aravinda-Kolla.jpeg">
-</td>
-  <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Thiloshon-Nagarajah.jpeg">
-  </td>
-  <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Abhinav-Thakur.jpeg">
-</td>
-</tr>
-<tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Aravinda Kolla</b>, MS, 2022-<br/>
-    Slang representation learning</p>
-  </td>
-  <td style="text-align: center; border: none">
-    <p><b>Thiloshon Nagarajah</b>, MS, 2022-<br/>
-   Understanding affordances in procedures</p>
-  </td>
-  <td style="text-align: center; border: none">
-    <p><b>Abhinav Kumar Thakur</b>, MS, 2022-<br/>
-      Meme understanding</p>
-  </td>
-  </tr>
-    <tr style="border: none;">
-<td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Prateek.png">
-</td>
-  <td style="text-align: center; border: none">
-      <img style="height:200px" src="../images/Darshan.png">    
-  </td>
-  <td style="text-align: center; border: none"></td>
-</tr>
-<tr style="border: none;">
-  <td style="text-align: center; border: none">  
-    <p><b>Prateek Chhikara</b>, MS, 2022-<br/>
+    <p><b>Prateek Chhikara</b>, USC/ISI, 2022-<br/>
     Text-based games with commonsense reasoning</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Darshan Girish Deshpande</b>, MS, 2022-<br/>
+    <p><b>Darshan Girish Deshpande</b>, USC/ISI, 2022-<br/>
     Active learning</p>
   </td>
   <td style="text-align: center; border: none">
@@ -110,15 +70,35 @@ author_profile: true
   </tr>
 </table>
 
-<h2>Summer Interns (2022)</h2>
-
-**Ana Iglesias**, 2022-\
-Modeling Temporal Knowledge Graphs
-
-**Lucas Zhuang**, 2022-\
-Knowledge Graph Fact Verification
 
 ## Past
+
+**Peifeng Wang**, PhD, 2020-2023 \
+Commonsense reasoning with knowledge graphs and language models
+
+**Yifan Jiang**, MS, 2022-2023 \
+Procedural reasoning
+
+**Vishnu Priya Prasanna Venkatesh**, MS, 2022-2023 \
+Logical fallacy identification
+
+**Himanshu Rawlani**, MS, 2022 \
+Propaganda detection
+
+**Thiloshon Nagarajah**, MS, 2022 \
+Understanding affordances in procedures
+
+**Aravinda Kolla**, MS, 2022 \
+Slang representation learning
+
+**Abhinav Kumar Thakur**, MS, 2022 \
+Meme understanding
+
+**Ana Iglesias**, PhD intern, 2022 \
+Modeling Temporal Knowledge Graphs
+
+**Lucas Zhuang**, BS intern, 2022-\
+Knowledge Graph Fact Verification
 
 **Harshit Manektalia**, MS, 2022\
 Dimensional similarity of concepts
