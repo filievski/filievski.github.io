@@ -7,27 +7,77 @@ author_profile: true
 
   *See also: <u><a href="https://scholar.google.com/citations?user=4ZScBc0AAAAJ&hl=en">Google Scholar</a></u>*
 
+*Over seventy peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, COLING, EMNLP, NAACL, ACL, ICLR, AKBC, ISWC, ESWC, SWJ, JWS, KBS). An additional nine papers are currently under review.*
 
-1.  (under review) Kaixin Ma, **Filip Ilievski**, Jonathan Francis,
-    Eric Nyberg, Alessandro Oltramari. Coalescing Global and Local
-    Information for Procedural Text Understanding. COLING 2022.
+1.  (under review) Zhivar Sourati, **Filip Ilievski**, Pia Sommerauer. ARN: Analogical Reasoning on Narratives. **TACL**.
 
-2.  (under review) Ehsan Qasemi, **Filip Ilievski**, Muhao Chen,
-    Pedro Szekely. PaCo: Preconditions Attributed to Commonsense
-    Knowledge. ACL Rolling Review, submitted March 2022.
+2. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **CVPR**.
 
-3.  (under review) **Filip Ilievski**, Kartik Shenoy, Nicholas Klein,
-    Hans Chalupsky, Pedro Szekely. Capturing Concept Similarity with
-    Knowledge Graphs. Semantic Web Journal.
+3. (under review) Saurav Joshi, **Filip Ilievski**, Luca Luceri. Contextualizing internet memes across social media platforms. Transactions on Graph and Data Knowledge (TGDK).
 
-4.  (under review) Bohui Zhang, **Filip Ilievski**, Pedro Szekely.
-    Enriching Wikidata with Linked Open Data. International Semantic Web
-    Conference (ISWC) 2022.
+4. (under review) Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew. Robust Text Classification: Analyzing Prototype-Based Networks. **NAACL**.  
 
-5.  (under review) Jiarui Zhang, **Filip Ilievski**, Kaixin Ma, Bin
-    Zhang, Jonathan Francis, Alessandro Oltramari. An Empirical
-    Investigation of Commonsense Self-Supervision with Knowledge Graphs.
-    AKBC 2022.
+5. (under review) Darshan Deshpande, Zhivar Sourati, **Filip Ilievski**, Fred Morstatter. Contextualizing Argument Quality Assessment with Relevant Knowledge. **NAACL**.
+
+6. (under review) **Filip Ilievski**, Bradley P. Allen. Standardizing Knowledge Engineering Practices with a Reference Architecture. Transactions on Graph and Data Knowledge (TGDK).
+
+7. (under review) M. Jaleed Khan, **Filip Ilievski**, John G. Breslin, Edward Curry. 
+A Survey of Neurosymbolic Visual Reasoning with Scene Graphs and Common Sense Knowledge. **Neurosymbolic Artificial Intelligence journal**.
+
+8. (under review) Leilani Gilpin, **Filip Ilievski**. Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
+
+9. (under review) Bradley P. Allen, **Filip Ilievski**, Saurav Joshi. Identifying and Consolidating Knowledge Engineering Requirements. **ACM CAIN Conference**.
+
+10. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). Knowledge-powered recommendation for an improved diet water footprint. AAAI demonstration program.
+
+11. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). FIRE: Food Image to REcipe generation. **WACV**.
+
+12. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models. **R0-FoMo, co-located with NeurIPS**.
+
+13. **Filip Ilievski**, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely (2023). A Study of Concept Similarity in Wikidata. **Semantic Web Journal**.
+
+14. Prateek Chhikara, Jiarui Zhang, **Filip Ilievski**, Jonathan Francis, Kaixin Ma (2023). Knowledge-enhanced Agents for Interactive Text Games. **K-CAP**. **Best Student Paper Award**.
+
+15. Yifan Jiang, **Filip Ilievski**, Kaixin Ma, Zhivar Sourati (2023). BRAINTEASER: Lateral Thinking Puzzles for Large Language Models. **EMNLP**.
+
+16. Yifan Jiang, **Filip Ilievski**, Kaixin Ma (2023). \href{https://arxiv.org/abs/2304.13867}{Transferring Procedural Knowledge across Commonsense Tasks}. **European Conference on Artificial Intelligence (ECAI)**.
+
+17. Ana Iglesias-Molina, Kian Ahrabian, **Filip Ilievski**, Jay Pujara, Oscar Corcho (2023). Comparison of Knowledge Graph Representations for User Consumption Scenarios. **International Semantic Web Conference (ISWC)** Research Track.
+
+18. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2023). [A study of situational reasoning in traffic](https://arxiv.org/abs/2306.02520). **KDD**.
+
+19. Alessandro Oltramari, Jonathan Francis, **Filip Ilievski**, Kaixin Ma, Roshanak Mirzaee (2023). [Generalizable Neuro-Symbolic Systems for Commonsense Question Answering](https://ceur-ws.org/Vol-3432/paper38.pdf). Workshop on Neuro-Symbolic Learning and Reasoning (NeSy2023).
+
+20. Abhinav Kumar Thakur, **Filip Ilievski**, H\^ong-\^An Sandlin, Zhivar Sourati, Luca Luceri, Riccardo Tommasini, Alain Mermoud (2023). [Explainable Classification of Internet Memes](https://ceur-ws.org/Vol-3432/paper33.pdf). Workshop on Neuro-Symbolic Learning and Reasoning (NeSy2023).
+
+21. Zhivar Sourati, **Filip Ilievski**, Hông-Ân Sandlin, Alain Mermoud (2023). [Case-based Reasoning with Language Models for Classification of Logical Fallacies](https://arxiv.org/abs/2301.11879). **International Joint Conference on Artificial Intelligence (IJCAI)**.
+
+22. **Filip Ilievski**, Kaixin Ma, Alessandro Oltramari, Peifeng Wang, Jay Pujara (2023). [Building Robust and Explainable AI with Commonsense Knowledge Graphs and Neural Models](https://www.iospress.com/catalog/books/compendium-of-neurosymbolic-artificial-intelligence). **Compendium of Neuro-Symbolic Artificial Intelligence (book chapter)**.
+
+23. Riccardo Tommasini, **Filip Ilievski**, Thilini Wijesiriwardene (2023). [The Internet Meme Knowledge Graph](https://2023.eswc-conferences.org/wp-content/uploads/2023/05/paper_Tommasini_2023_The.pdf). **Extended Semantic Web Conference (ESWC)** Resource Track.
+
+24. Zhivar Sourati, Vishnu Priya Prasanna Venkatesh, Darshan Deshpande, Himanshu Rawlani, **Filip Ilievski**, Hông-Ân Sandlin, Alain Mermoud (2023). [Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments](https://arxiv.org/pdf/2212.07425.pdf). **Knowledge-Based Systems (KBS)**.
+
+25. Peifeng Wang, Aaron Chan, **Filip Ilievski**, Muhao Chen, Xiang Ren (2023). [PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales](https://arxiv.org/pdf/2211.01562.pdf). **International Conference on Learning Representations (ICLR)**. 2023.
+
+26. Abhinav Kumar Thakur, **Filip Ilievski**, H\^ong-\^An Sandlin, Alain Mermoud, Zhivar Sourati, Luca Luceri, Riccardo Tommasini (2023). [Multimodal and Explainable Internet Meme Classification](https://amulyayadav.github.io/AI4SG2023/images/21.pdf). AAAI AI4SG workshop.
+
+
+27. Peifeng Wang, Aaron Chan, **Filip Ilievski**, Muhao Chen, Xiang Ren (2022). [PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales](https://arxiv.org/pdf/2211.01562.pdf). NeurIPS workshops TL4NLP and TSRML.
+
+28. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2022). [Utilizing Background Knowledge for Robust Reasoning over Traffic Situations](https://knowledge-nlp.github.io/aaai2023/papers/023-Background-poster.pdf). AAAI Workshop on Knowledge Augmented Methods for NLP.
+
+29. Ehsan Qasemi, **Filip Ilievski**, Muhao Chen, Pedro Szekely (2022). [PaCo: Preconditions Attributed to Commonsense Knowledge](https://aclanthology.org/2022.findings-emnlp.505.pdf). **Conference on Empirical Methods in Natural Language Processing (EMNLP)** Findings.
+
+30. **Filip Ilievski**, Jay Pujara, Kartik Shenoy (2022). [Does Wikidata Support Analogical Reasoning?](https://link.springer.com/chapter/10.1007/978-3-031-21422-6_13) KGSWC.
+
+31. Bohui Zhang, **Filip Ilievski**, Pedro Szekely (2022). [Enriching Wikidata with Linked Open Data](https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_8682.pdf). ISWC Wikidata workshop.
+
+32. Nicholas Klein, **Filip Ilievski**, Hayden Freedman, Pedro Szekely (2022). [Identifying Surprising Facts in Wikidata](https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_295.pdf). ISWC Wikidata workshop.
+
+33. Jiarui Zhang, **Filip Ilievski**, Kaixin Ma, Jonathan Francis, Alessandro Oltramari (2022). [A Study of Zero-shot Adaptation with Commonsense Knowledge](https://www.akbc.ws/2022/assets/pdfs/3_a_study_of_zero_shot_adaptatio.pdf). **Automated Knowledge Base Construction (AKBC)**.
+
+34. Kaixin Ma, **Filip Ilievski**, Jonathan Francis, Eric Nyberg, Alessandro Oltramari (2022). [Coalescing Global and Local Information for Procedural Text Understanding](https://aclanthology.org/2022.coling-1.132.pdf). **Conference on Computational Linguistics (COLING)**.
 
 6.  Thiloshon Nagarajah, **Filip Ilievski**, Jay Pujara.
     [Understanding Narratives through Dimensions of
