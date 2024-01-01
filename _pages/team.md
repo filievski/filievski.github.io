@@ -56,6 +56,15 @@ We aim for:
 ## Master Students
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
+  <tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Prateek.png">
+</td>
+  <td style="text-align: center; border: none">
+      <img style="height:200px" src="../images/Darshan.png">
+  </td>
+  <td style="text-align: center; border: none"></td>
+</tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
     <p><b>Prateek Chhikara</b>, USC/ISI, 2022-<br/>
