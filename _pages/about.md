@@ -47,6 +47,8 @@ If interested in any of these positions, send me an email.
 
 ## News
 * Start of 2024: Positions open for Master's students, Postdocs, and PhD interns. Soon there will be PhD positions as well. Get in touch with me if interested!
+* I am co-chairing a workshop on Generative NeuroSymbolic AI (GeNeSy) at ESWC 2024!
+* I am organizing a Dagstuhl seminar on the topic of Generalization by Humans and Machines in May 2024!
 * As of September 2023, I returned to VU Amsterdam to take a position as a senior assistant professor in the computer science department.
 * Our team has a lab session on the Knowledge Graph Toolkit (KGTK) and a tutorial on generalizable commonsense reasoning accepted for presentation at AAAI 2023!
 * The KGTK team has five papers accepted at the [Wikidata-22 workshop](https://wikidataworkshop.github.io/2022/).
