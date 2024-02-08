@@ -20,14 +20,10 @@ redirect_from:
 * **BSc**, Ss. Cyril and Methodius University Skopje (2009-2013)
 
 ## Open positions
-I like collaborating with strong students with a passion for AI research and learning about state-of-the-art technologies like language models and neuro-symbolic systems. I am also looking to hire Postdocs to work with me on important topics relating to analogical reasoning and complex reasoning in the democracy domain.
+I am currently working on growing my team at VU Amsterdam. I like collaborating with strong students with a passion for human-centric AI and NLP research and learning about state-of-the-art technologies like language models and neuro-symbolic systems. I am also looking to hire Postdocs to work with me on important topics relating to analogies and complex reasoning. 
 
-As of January 2024, I currently have the following positions open:
-1. **8-month Postdoc (1.0FTE)** and/or a **PhD intern** to investigate the topic of analogical reasoning over educational materials
-2. **10-month Postdoc (1.0FTE)** and a **Master student RA** to research complex systems for combating threats to democracy like misinformation and hate speech through human-AI teaming
-3. Two **Master Student Research Assistants** (1 day a week for 5.5 months) to work on devising a knowledge-based AI tool for supporting sustainable policymaking in an interdisciplinary collaboration with a life cycle analysis expert
+For concrete open positions, see [this group page](https://lr.cs.vu.nl/about/jobs). Note that there are usually other positions that are about to open, so if you are interested in working with me as a PhD student or a Postdoc, get in touch with me via email.
 
-If interested in any of these positions, send me an email.
 
 ## Funded Research 
 
