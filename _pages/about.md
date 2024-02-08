@@ -33,7 +33,7 @@ For concrete open positions, see [this group page](https://lr.cs.vu.nl/about/job
 
 * Coherent and commonsensical AI for social influence (PI; Co-PI: Gale Lucas), USC/ISI and ARL. 02/2023
 
-* Knowledge Graph Technology for Information Analytics (Swiss Cybersecurity department). Grant. F. Ilievski, P. Szekely. $112,817. 06/2022. 
+* Knowledge Graph Technology for Information Analytics (Swiss Cybersecurity department). Grant. F. Ilievski, P. Szekely. 06/2022. 
 
 * Robust and Explainable AI Agents with Common Sense (NSF CRII). Grant. F. Ilievski. 05/2022.
 
