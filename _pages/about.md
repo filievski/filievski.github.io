@@ -26,7 +26,7 @@ redirect_from:
 * Welcome to the three new additions to my common sense AI team this Spring: Hossein Khojasteh, Mehdi Jafari, and Ruthu Rooparaghunath. They are joining me as research assistants on the Humane AI project of developing personalized recommendations for educational materials. 
 * I am co-chairing [the Generative NeuroSymbolic AI (GeNeSy) workshop at ESWC 2024](https://sites.google.com/view/genesy2024/home?authuser=0).
 * I am organizing a Dagstuhl seminar on [Generalization by Humans and Machines](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24192) from 5th to 8th of May 2024. We have 30 participants from various disciplines, including machine learning, neuro-symbolic AI, computer vision, natural language processing, and cognitive psychology.
-* Best student paper award for Prateek at K-CAP for the paper "Knowledge-enhanced Agents for Interactive Text Games".
+* Best student paper award for Prateek at K-CAP for our work [Knowledge-enhanced Agents for Interactive Text Games](https://dl.acm.org/doi/10.1145/3587259.3627561).
 
 
 ## Open positions
