@@ -39,7 +39,7 @@ We perform fundamental research on commonsense AI and investigate its applicatio
   </td>
   <td style="text-align: center; border: none">
     <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
-  Robust and explainable commonsense reasoning with analogies</p>
+  Cognitively-inspired abstraction in AI</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Jiarui Zhang</b>, USC/ISI, 2022-<br/>
@@ -48,28 +48,32 @@ We perform fundamental research on commonsense AI and investigate its applicatio
   </tr>
 </table>
 
-## Master Students
+## Research Assistants
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Prateek.png">
+<img style="height:200px" src="../images/Hossein.jpeg">
 </td>
   <td style="text-align: center; border: none">
-      <img style="height:200px" src="../images/Darshan.png">
+      <img style="height:200px" src="../images/Mehdi.jpeg">
   </td>
-  <td style="text-align: center; border: none"></td>
+  <td style="text-align: center; border: none">
+      <img style="height:200px" src="../images/Ruthu.png">
+  </td>
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Prateek Chhikara</b>, USC/ISI, 2022-<br/>
-    Text-based games with commonsense reasoning</p>
+    <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
+    Rule induction for educational recommendations</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Darshan Girish Deshpande</b>, USC/ISI, 2022-<br/>
-    Active learning</p>
+    <p><b>Mehdi Jafari</b>, VU Amsterdam, 2024-<br/>
+    Neuro-symbolic verification models</p>
   </td>
   <td style="text-align: center; border: none">
+    <p><b>Ruthu H. Rooparaghunath</b>, VU Amsterdam, 2024-<br/>
+    Analogical reasoning</p>
   </td>
   </tr>
 </table>
@@ -77,8 +81,14 @@ We perform fundamental research on commonsense AI and investigate its applicatio
 
 ## Past
 
+**Darshan Girish Deshpande**, MS, 2022-2024 \
+Active learning with LLMs
+
 **Peifeng Wang**, PhD, 2020-2023 \
 Commonsense reasoning with knowledge graphs and language models
+
+**Prateek Chhikara**, MS, 2022-2023 \
+Text-based games with commonsense reasoning
 
 **Yifan Jiang**, MS, 2022-2023 \
 Procedural reasoning
