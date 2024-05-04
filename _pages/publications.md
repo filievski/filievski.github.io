@@ -44,7 +44,7 @@ Novel Task Defying Common Sense](https://arxiv.org/pdf/2404.16068). SemEval work
 
 18. Yifan Jiang, **Filip Ilievski**, Kaixin Ma (2023). [Transferring Procedural Knowledge across Commonsense Tasks](https://ebooks.iospress.nl/doi/10.3233/FAIA230391). **European Conference on Artificial Intelligence (ECAI)**.
 
-19. Ana Iglesias-Molina, Kian Ahrabian, **Filip Ilievski**, Jay Pujara, Oscar Corcho (2023). Comparison of Knowledge Graph Representations for User Consumption Scenarios. **International Semantic Web Conference (ISWC)** Research Track.
+19. Ana Iglesias-Molina, Kian Ahrabian, **Filip Ilievski**, Jay Pujara, Oscar Corcho (2023). [Comparison of Knowledge Graph Representations for User Consumption Scenarios](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_15). **International Semantic Web Conference (ISWC)** Research Track.
 
 20. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2023). [A study of situational reasoning in traffic](https://arxiv.org/abs/2306.02520). **KDD**.
 
