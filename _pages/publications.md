@@ -16,33 +16,33 @@ for Visual Evaluation and Learning. **CoLM**.
 
 3. (to appear) Filip Ilievski. Human-centric AI with Common Sense. Springer Nature Synthesis Book.
 
-4. Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2024). SemEval-2024 Task 9: BRAINTEASER, A
-Novel Task Defying Common Sense. SemEval workshop, co-located with NAACL.
+4. Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2024). [SemEval-2024 Task 9: BRAINTEASER, A
+Novel Task Defying Common Sense](https://arxiv.org/pdf/2404.16068). SemEval workshop, co-located with NAACL.
 
-5. Saurav Joshi, **Filip Ilievski**, Luca Luceri. Contextualizing internet memes across social media platforms. Workshop on Multimodal Content Analysis for Social Good: MM4SG.
+5. Saurav Joshi, **Filip Ilievski**, Luca Luceri. [Contextualizing internet memes across social media platforms](https://arxiv.org/html/2311.11157v2). Workshop on Multimodal Content Analysis for Social Good: MM4SG.
 
-6. Zhivar Sourati, **Filip Ilievski**, Pia Sommerauer (2024). ARN: Analogical Reasoning on Narratives. **TACL**.
+6. Zhivar Sourati, **Filip Ilievski**, Pia Sommerauer (2024). [ARN: Analogical Reasoning on Narratives](https://arxiv.org/html/2310.00996v3). **TACL**.
 
-7. Darshan Deshpande, Zhivar Sourati, **Filip Ilievski**, Fred Morstatter (2024). Contextualizing Argument Quality Assessment with Relevant Knowledge. **NAACL**.
+7. Darshan Deshpande, Zhivar Sourati, **Filip Ilievski**, Fred Morstatter (2024). [Contextualizing Argument Quality Assessment with Relevant Knowledge](https://arxiv.org/pdf/2305.12280). **NAACL**.
 
-8. Bradley P. Allen, **Filip Ilievski** (2024). Standardizing Knowledge Engineering Practices with a Reference Architecture. Transactions on Graph and Data Knowledge (TGDK).
+8. Bradley P. Allen, **Filip Ilievski** (2024). [Standardizing Knowledge Engineering Practices with a Reference Architecture](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.2.1.5). Transactions on Graph and Data Knowledge (TGDK).
 
 9. M. Jaleed Khan, **Filip Ilievski**, John G. Breslin, Edward Curry (2024). 
-A Survey of Neurosymbolic Visual Reasoning with Scene Graphs and Common Sense Knowledge. **Neurosymbolic Artificial Intelligence journal**.
+[A Survey of Neurosymbolic Visual Reasoning with Scene Graphs and Common Sense Knowledge](https://neurosymbolic-ai-journal.com/system/files/nai-paper-719.pdf). **Neurosymbolic Artificial Intelligence journal**.
 
-12. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). Knowledge-powered recommendation for an improved diet water footprint. AAAI demonstration program.
+12. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). [Knowledge-powered recommendation for an improved diet water footprint](https://doi.org/10.1609/aaai.v38i21.30571). AAAI demonstration program.
 
-13. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). FIRE: Food Image to REcipe generation. **WACV**.
+13. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). [FIRE: Food Image to REcipe generation](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf). **WACV**.
 
-14. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models. **R0-FoMo, co-located with NeurIPS**.
+14. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). [Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models](https://openreview.net/pdf?id=YrYcoV2dAk). **R0-FoMo, co-located with NeurIPS**.
 
 15. **Filip Ilievski**, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely (2023). A Study of Concept Similarity in Wikidata. **Semantic Web Journal**.
 
-16. Prateek Chhikara, Jiarui Zhang, **Filip Ilievski**, Jonathan Francis, Kaixin Ma (2023). Knowledge-enhanced Agents for Interactive Text Games. **K-CAP**. **Best Student Paper Award**.
+16. Prateek Chhikara, Jiarui Zhang, **Filip Ilievski**, Jonathan Francis, Kaixin Ma (2023). [Knowledge-enhanced Agents for Interactive Text Games](https://dl.acm.org/doi/10.1145/3587259.3627561). **K-CAP**. **Best Student Paper Award**.
 
-17. Yifan Jiang, **Filip Ilievski**, Kaixin Ma, Zhivar Sourati (2023). BRAINTEASER: Lateral Thinking Puzzles for Large Language Models. **EMNLP**.
+17. Yifan Jiang, **Filip Ilievski**, Kaixin Ma, Zhivar Sourati (2023). [BRAINTEASER: Lateral Thinking Puzzles for Large Language Models](https://aclanthology.org/2023.emnlp-main.885/). **EMNLP**.
 
-18. Yifan Jiang, **Filip Ilievski**, Kaixin Ma (2023). \href{https://arxiv.org/abs/2304.13867}{Transferring Procedural Knowledge across Commonsense Tasks}. **European Conference on Artificial Intelligence (ECAI)**.
+18. Yifan Jiang, **Filip Ilievski**, Kaixin Ma (2023). [Transferring Procedural Knowledge across Commonsense Tasks](https://ebooks.iospress.nl/doi/10.3233/FAIA230391). **European Conference on Artificial Intelligence (ECAI)**.
 
 19. Ana Iglesias-Molina, Kian Ahrabian, **Filip Ilievski**, Jay Pujara, Oscar Corcho (2023). Comparison of Knowledge Graph Representations for User Consumption Scenarios. **International Semantic Web Conference (ISWC)** Research Track.
 
