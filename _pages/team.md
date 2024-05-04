@@ -5,19 +5,6 @@ author_profile: true
 ---
 
 
-## What We Do
-
-We investigate **human-centric AI systems with common sense** that can team with people in intuitive and reliable ways.
-
-We perform fundamental research on commonsense AI and investigate its application to challenging domains, informed by **empirical insights and cognitive theories**.
-
-## Research Topics
-
-* **Commonsense Reasoning**(e.g., modeling story procedures, tracking participant states, and performing counterfactual inference; decision-making in everyday situations)
-* **Human-centric NLP**(e.g., drawing situational analogies according to cognitive theories; lateral thinking in AI; studying and building robust and explainable models)
-* **AI for Social Good**(e.g., value-aware detection of fallacies in arguments and hate speech in memes; what-if reasoning in traffic)
-
-
 ## PhD Students
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
