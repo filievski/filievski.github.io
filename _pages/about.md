@@ -22,7 +22,9 @@ redirect_from:
 ## News
 * I am chairing [The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)](https://analogy-angle.github.io/) at IJCAI 2024 in August.
 * On May 2nd and 3rd, I hosted Wael AbdAlmageed at VU Amsterdam. Wael gave a talk entitled [Truth Decay - Plausible Deniability: The Liar’s Dividend](https://vu.nl/en/events/2024/talk-by-prof-wael-abdalmageed) and met with members of the AI groups at the VU and UvA.
-* In late April, I visited the Japanese Science and Technology Agency (JST) and several universities in Tokyo and Sendai. During this trip, I talked about commonsense AI for good at JST and AIRC, and we explored future collaborations. 
+* In late April, I visited the Japanese Science and Technology Agency (JST) and several universities in Tokyo and Sendai. During this trip, I talked about commonsense AI for good at JST and AIRC, and we explored future collaborations.
+* In April 2024, I submitted the book ``Human-centric AI with Common Sense'' to the Springer Nature
+Synthesis series. This is an invited publication and will be published later this year.
 * Welcome to the three new additions to my common sense AI team this Spring: Hossein Khojasteh, Mehdi Jafari, and Ruthu Rooparaghunath. They are joining me as research assistants on the Humane AI project of developing personalized recommendations for educational materials. 
 * I am co-chairing [the Generative NeuroSymbolic AI (GeNeSy) workshop at ESWC 2024](https://sites.google.com/view/genesy2024/home?authuser=0).
 * I am organizing a Dagstuhl seminar on [Generalization by Humans and Machines](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24192) from 5th to 8th of May 2024. We have 30 participants from various disciplines, including machine learning, neuro-symbolic AI, computer vision, natural language processing, and cognitive psychology.
