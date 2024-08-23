@@ -13,6 +13,31 @@ author_profile: true
 <img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
 </td>
   <td style="text-align: center; border: none">
+        <img style="height:200px" src="../images/Brad.jpeg">
+  </td>
+  <td style="text-align: center; border: none">
+    <img style="height:200px" src="../images/Hossein.jpeg">
+</td>
+</tr>
+<tr style="border: none;">
+  <td style="text-align: center; border: none">  
+    <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
+    Autoformalization with LLMs and Symbolic Methods</p>
+  </td>
+  <td style="text-align: center; border: none">
+    <p><b>Bradley P. Allen</b>, University of Amsterdam, 2022-<br/>
+  Neuro-Symbolic Knowledge Engineering</p>
+  </td>
+  <td style="text-align: center; border: none">
+    <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
+    Analogical Abstraction</p>
+  </td>
+  </tr>
+  <tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Ali.jpeg">
+</td>
+  <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
   </td>
   <td style="text-align: center; border: none">
@@ -21,8 +46,8 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
-    Neuro-symbolic verification models</p>
+    <p><b>Ali Asgari</b>, VU Amsterdam, 2023-<br/>
+    Software Architectures for NeSy AI</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
@@ -40,33 +65,39 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Hossein.jpeg">
+<img style="height:200px" src="../images/Kaan.jpeg">
 </td>
-  <td style="text-align: center; border: none">
-      <img style="height:200px" src="../images/Mehdi.jpeg">
+  <td>
   </td>
-  <td style="text-align: center; border: none">
-      <img style="height:200px" src="../images/Ruthu.png">
+  <td>
   </td>
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
-    Rule induction for educational recommendations</p>
+    <p><b>Kaan Aslan</b>, VU Amsterdam, 2024-<br/>
+    Knowledge-driven AI for Sustainability</p>
   </td>
-  <td style="text-align: center; border: none">
-    <p><b>Mehdi Jafari</b>, VU Amsterdam, 2024-<br/>
-    Neuro-symbolic verification models</p>
+  <td>
   </td>
-  <td style="text-align: center; border: none">
-    <p><b>Ruthu H. Rooparaghunath</b>, VU Amsterdam, 2024-<br/>
-    Analogical reasoning</p>
+  <td>
   </td>
   </tr>
 </table>
 
 
 ## Past
+
+**Koen Kraaijveld**, RA, 2024 \
+Visual lateral thinking
+
+**Mehdi Jafari**, RA, 2024 \
+LLM-Modulo reasoning
+
+**Mohammad Hossein Khojasteh**, RA, 2024 \
+Rule induction for educational recommendations
+
+**Ruthu H. Rooparaghunath**, RA, 2024 \
+Analogical reasoning
 
 **Darshan Girish Deshpande**, MS, 2022-2024 \
 Active learning with LLMs
