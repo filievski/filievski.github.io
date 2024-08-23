@@ -30,7 +30,7 @@ Bachelor course
 Vrije Universiteit Amsterdam\
 Master's course
 
-[**Programming for Humanities and Social Sciences**](), Fall 2017\
+**Programming for Humanities and Social Sciences**, Fall 2017\
 Vrije Universiteit Amsterdam\
 Bachelor course
 
