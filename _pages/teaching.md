@@ -6,29 +6,21 @@ author_profile: true
 
 ## Course Instructor
 
-**The Social Web**, Period 2, 2024/25\
+[**The Social Web**](https://studiegids.vu.nl/en/courses/2024-2025/X_405086#/), Fall 2024\
 Vrije Universiteit Amsterdam\
 Master's course
 
-**Conversational AI**, Period 2, 2024/25\
+[**Conversational AI**](https://studiegids.vu.nl/en/Bachelor/2024-2025/artificial-intelligence/XB_0119#/), Fall 2024\
 Vrije Universiteit Amsterdam\
 Bachelor course
 
-**Project Intelligent Systems (PrInS)**, Period 3, 2023/24\
+[**Project Intelligent Systems (PrInS)**](https://studiegids.vu.nl/en/courses/2023-2024/X_401076#/), Fall 2023\
 Vrije Universiteit Amsterdam\
 Bachelor course
 
-**Building Knowledge Graphs (DSCI-558)**, Fall 2022\
+**Building Knowledge Graphs (DSCI-558)**, Fall 2020, Fall 2022\
 University of Southern California\
 Graduate course
-
-**Building Knowledge Graphs (DSCI-558)**, Fall 2020\
-University of Southern California\
-Graduate course
-
-**Text Mining**, Summer 2019\
-Central Bureau for Statistics (CBS) Netherlands \
-Government on-demand course
 
 **Text Mining**, Spring 2019\
 Vrije Universiteit Amsterdam\
@@ -49,30 +41,3 @@ Master's course
 **Information processing (Informatieverwerking)**, Fall 2016\
 Vrije Universiteit Amsterdam\
 Bachelor (Undergraduate) course
-
-## Guest Lectures
-
-**Commonsense Knowledge Graphs**, Fall 2021\
-Course: Building Knowledge Graphs (DSCI-558)\
-University of Southern California\
-Graduate course
-
-**Commonsense Knowledge Graphs**, Spring 2021\
-Course: Building Knowledge Graphs (DSCI-558)\
-University of Southern California\
-Graduate course
-
-**Knowledge Graphs**, Fall 2020\
-Course: Text Analytics (ISE-540)\
-University of Southern California\
-Graduate course
-
-**KR and NLP: The curious case of entities**, Spring 2019\
-Course: Knowledge Representation on the Web\
-Vrije Universiteit Amsterdam\
-Master's course
-
-**NoSQL Databases**, Fall 2017\
-Course: Databases\
-Rijksuniversiteit Groningen\
-Master course
