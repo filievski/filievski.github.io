@@ -46,7 +46,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Ali Asgari</b>, VU Amsterdam, incoming (Nov)<br/>
+    <p><b>Ali Asgari</b>, VU Amsterdam, 2024 - (incoming)<br/>
     Software Architectures for NeSy AI</p>
   </td>
   <td style="text-align: center; border: none">
