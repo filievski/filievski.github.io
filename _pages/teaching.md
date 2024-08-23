@@ -18,26 +18,26 @@ Bachelor course
 Vrije Universiteit Amsterdam\
 Bachelor course
 
-**Building Knowledge Graphs (DSCI-558)**, Fall 2020, Fall 2022\
+[**Building Knowledge Graphs (DSCI-558)**](https://web-app.usc.edu/ws/soc_archive/soc/term-20223/course/dsci-558/index.html), Fall 2020, Fall 2022\
 University of Southern California\
 Graduate course
 
-**Text Mining**, Spring 2019\
+[**Text Mining**](https://research.vu.nl/en/courses/text-mining-for-ai-3), Spring 2019\
 Vrije Universiteit Amsterdam\
-Bachelor (Undergraduate) course
+Bachelor course
 
-**Python for Text Analysis**, Fall 2017\
+[**Python for Text Analysis**](https://research.vu.nl/en/courses/programming-in-python-for-text-analysis-3), Fall 2017\
 Vrije Universiteit Amsterdam\
 Master's course
 
-**Programming for Humanities and Social Sciences**, Fall 2017\
+[**Programming for Humanities and Social Sciences**](), Fall 2017\
 Vrije Universiteit Amsterdam\
-Bachelor (Undergraduate) course
+Bachelor course
 
-**Digital and Environmental Humanities**, Fall 2017\
+[**Digital and Environmental Humanities**](), Fall 2017\
 Vrije Universiteit Amsterdam\
 Master's course
 
 **Information processing (Informatieverwerking)**, Fall 2016\
 Vrije Universiteit Amsterdam\
-Bachelor (Undergraduate) course
+Bachelor course
