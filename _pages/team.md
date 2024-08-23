@@ -26,7 +26,7 @@ author_profile: true
   </td>
   <td style="text-align: center; border: none">
     <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
-  Neuro-Symbolic Knowledge Engineering</p>
+    NeSy Knowledge Engineering</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
@@ -51,11 +51,11 @@ author_profile: true
   </td>
   <td style="text-align: center; border: none">
     <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
-  Cognitively-inspired abstraction in AI</p>
+  Cognitively-inspired Abstraction in AI</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Jiarui Zhang</b>, USC/ISI, 2022-<br/>
-      Multimodal complex reasoning</p>
+      Multimodal Complex Reasoning</p>
   </td>
   </tr>
 </table>
