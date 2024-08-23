@@ -22,7 +22,7 @@ author_profile: true
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
     <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
-    Autoformalization with LLMs and Symbolic Methods</p>
+    Robust Autoformalization with LLMs</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
@@ -67,19 +67,12 @@ author_profile: true
 <td style="text-align: center; border: none">
 <img style="height:200px" src="../images/Kaan.jpeg">
 </td>
-  <td>
-  </td>
-  <td>
-  </td>
+
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
     <p><b>Kaan Aslan</b>, VU Amsterdam, 2024-<br/>
     Knowledge-driven AI for Sustainability</p>
-  </td>
-  <td>
-  </td>
-  <td>
   </td>
   </tr>
 </table>
