@@ -13,7 +13,7 @@ author_profile: true
 <img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
 </td>
   <td style="text-align: center; border: none">
-        <img style="height:200px" src="../images/Brad.jpeg">
+        <img style="height:200px" src="../images/Brad.jpg">
   </td>
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Hossein.jpeg">
@@ -25,7 +25,7 @@ author_profile: true
     Autoformalization with LLMs and Symbolic Methods</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Bradley P. Allen</b>, University of Amsterdam, 2022-<br/>
+    <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
   Neuro-Symbolic Knowledge Engineering</p>
   </td>
   <td style="text-align: center; border: none">
@@ -46,7 +46,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Ali Asgari</b>, VU Amsterdam, 2023-<br/>
+    <p><b>Ali Asgari</b>, VU Amsterdam, incoming (Nov)<br/>
     Software Architectures for NeSy AI</p>
   </td>
   <td style="text-align: center; border: none">
