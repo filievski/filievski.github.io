@@ -34,21 +34,15 @@ author_profile: true
   </td>
   </tr>
   <tr style="border: none;">
-<td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Ali.jpeg">
-</td>
   <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
   </td>
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Jiarui-Zhang.jpeg">
 </td>
+    <td></td>
 </tr>
 <tr style="border: none;">
-  <td style="text-align: center; border: none">  
-    <p><b>Ali Asgari</b>, VU Amsterdam, 2024 - (incoming)<br/>
-    Software Architectures for NeSy AI</p>
-  </td>
   <td style="text-align: center; border: none">
     <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
   Cognitively-inspired Abstraction in AI</p>
@@ -57,6 +51,7 @@ author_profile: true
     <p><b>Jiarui Zhang</b>, USC/ISI, 2022-<br/>
       Multimodal Complex Reasoning</p>
   </td>
+  <td></td>
   </tr>
 </table>
 
