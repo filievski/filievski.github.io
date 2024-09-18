@@ -9,7 +9,7 @@ author_profile: true
 
 *Over seventy peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, COLING, EMNLP, NAACL, ACL, ICLR, AKBC, ISWC, ESWC, SWJ, JWS, KBS). An additional nine papers are currently under review.*
 
-1. (under review) Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski**. [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). AAAI'25.
+1. (under review) Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski**. [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
 
 2. (under review) Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew. [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP**. 
   
