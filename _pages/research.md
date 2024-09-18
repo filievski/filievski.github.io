@@ -37,11 +37,4 @@ We perform fundamental research on commonsense AI and investigate its applicatio
 
 
 
-
-**Research Topics:**
-
-1. 
-2.  
-3. 
-
-For further details, see [my recent publications](https://www.ilievski.info/publications/).
+See [my recent publications](https://www.ilievski.info/publications/) for more information.
