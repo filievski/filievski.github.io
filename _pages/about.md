@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-* **Assistant Professor, Sr. (UD1)**, Vrije Universiteit Amsterdam
-* **Co-lead**, Learning and Reasoning Group
-* **Affiliated Scientist**, USC Information Sciences Institute (USC/ISI)
-* **Affiliated Scientist**, Amsterdam Sustainability Institute (ASI)
+* **Assistant Professor of Commonsense AI, Sr. (UD1)**, [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/more-about/artificial-intelligence-computer-science)
+* **Faculty**, [Learning and Reasoning Group](https://lr.cs.vu.nl)
+* **Affiliated Scientist**, [USC Information Sciences Institute (USC/ISI)](https://www.isi.edu)
+* **Affiliated Scientist**, [Amsterdam Sustainability Institute (ASI)](https://vu.nl/en/about-vu/research-institutes/asi)
+* **Scientific Coordinator**, [Digital Sustainability Institute (DiSC)](https://digitalsustainabilitycenter.nl)
+* **Minor Coordinator**, [Situated AI (BSc)](https://vu.nl/en/education/minor/situated-ai)
 * **Research Assistant Professor**, USC Computer Science (2022-2023)
 * **Research Scientist and Research Lead**, USC Information Sciences Institute (2019-2023)
 * **PhD**, Vrije University Amsterdam (2015-2019)
