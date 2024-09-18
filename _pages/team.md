@@ -16,7 +16,7 @@ author_profile: true
         <img style="height:200px" src="../images/Brad.jpg">
   </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Hossein.jpeg">
+    <img style="height:200px" src="../images/Hossein.png">
 </td>
 </tr>
 <tr style="border: none;">
