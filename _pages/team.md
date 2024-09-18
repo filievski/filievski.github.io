@@ -35,7 +35,7 @@ author_profile: true
   </tr>
   <tr style="border: none;">
   <td style="text-align: center; border: none">
-        <img style="height:200px" src="../images/Zhivar-Sourati.jpeg">
+        <img style="height:200px" src="../images/Zhivar.jpg">
   </td>
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Jerry.jpg">
