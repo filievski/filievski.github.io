@@ -20,17 +20,15 @@ redirect_from:
 * **Research Visitor**, Carnegie Mellon University (2017)
 * **MSc**, Vrije University Amsterdam (2013-2015)
 * **BSc**, Ss. Cyril and Methodius University Skopje (2009-2013)
-* **Areas:** Commonsense Reasoning, Human-Centric NLP, AI for Social Good
+* **Areas:** Commonsense Reasoning, Neuro-Symbolic AI, Analogy, AI for Social Good ([more info](https://ilievski.info/research/))
 
 
 ## Open positions
 I am currently working on growing my team at VU Amsterdam. I like collaborating with strong students who are passionate about human-centric AI with common sense and state-of-the-art technologies like language models and neuro-symbolic systems. 
 
-As of August 2024, I am looking for a **PhD student** on the cross-disciplinary topic of [Value-aware interpretation of Internet Memes](https://workingat.vu.nl/vacancies/value-aware-interpretation-of-internet-memes-ai-meets-communication-science-amsterdam-1090828), in collaboration with a communication scientist.
+During these months, I am hiring **PhD students and Postdocs** for my newly granted cross-disciplinary project, "Human-Centric AI with Common Sense," which is [funded by NWO AiNed's program](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski). The topics focus on value-aware AI, analogical abstraction, and developing world models with common sense. The calls for these positions are ongoing (some have been closed, and the rest are/will be open).
 
-I am also looking to hire **Postdocs** to work with me on analogies, internet memes, and visual reasoning. The calls for these positions should be out during the Fall.
-
-Note that there are usually other positions about to open, so if you are interested in working with me as a PhD student or a Postdoc, contact me via email.
+Please apply if you are interested in these topics and would like to work with me as a PhD student or a Postdoc. If you cannot find (an adequate) call where you can apply, contact me via email, as the next position is likely coming out shortly.
 
 ## News
 * I am chairing [The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)](https://analogy-angle.github.io/) at IJCAI 2024 in August.
