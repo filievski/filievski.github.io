@@ -40,7 +40,6 @@ author_profile: true
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Jerry.jpg">
 </td>
-    <td></td>
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
@@ -51,7 +50,6 @@ author_profile: true
     <p><b>Jiarui Zhang</b>, USC/ISI, 2022-<br/>
       Multimodal Complex Reasoning</p>
   </td>
-  <td></td>
   </tr>
 </table>
 
