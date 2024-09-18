@@ -15,6 +15,6 @@ author_profile: true
 * **Deliberate attitude:** To have productive and meaningful working days, we need to be fully focused when we perform deep work. When we are not working, we should be equally determined to preserve the time and space for leisurely activities. 
 * **Minimizing disruptions:** The biggest challenge of productive and meaningful work are disruptions. I do my best to minimize disruptions both from and to me. I advise my team to do the same. 
 * **Time management:** I manage my time by setting and fulfilling goals, keeping track of my tasks and projects, and time blocking.
-* **Expectations:** It is common to set expectations in academic setting. I do my best to write all expectations down in an evolving google doc.
-* **Meetings:** I aim to come prepared to every meeting. It is respective to my peers and makes the meetings more meaningful. I expect my students and collaborators to do the same.
+* **Expectations:** The academic work has many implicit expectations, which lead to overhead, frustrations, and distrust. I do my best to write all expectations down in an evolving google doc and discuss them with my team.
+* **Meeting preparation:** I aim to come prepared for every meeting. It is respectful to my peers and makes the meetings more meaningful. I expect my students and collaborators to do the same.
 * **Curiosity:** I do my best to feed my intellectual curiosity. I attend seminars, read papers, discuss, etc. in both formal and informal settings. There are infinite worlds to discover. 
