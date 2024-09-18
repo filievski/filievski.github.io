@@ -10,27 +10,27 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
+    <img style="height:200px" src="../images/Hossein.png">
 </td>
   <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Brad.jpg">
   </td>
-  <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Hossein.png">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
-  <td style="text-align: center; border: none">  
-    <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
-    Robust Autoformalization with LLMs</p>
+  <td style="text-align: center; border: none">
+    <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
+    Analogical Abstraction</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
     NeSy Knowledge Engineering</p>
   </td>
-  <td style="text-align: center; border: none">
-    <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
-    Analogical Abstraction</p>
+  <td style="text-align: center; border: none">  
+    <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
+    Robust Autoformalization with LLMs</p>
   </td>
   </tr>
   <tr style="border: none;">
