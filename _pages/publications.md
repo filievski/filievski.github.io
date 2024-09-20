@@ -10,10 +10,8 @@ author_profile: true
 *Over seventy peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, COLING, EMNLP, NAACL, ACL, ICLR, AKBC, ISWC, ESWC, SWJ, JWS, KBS). An additional nine papers are currently under review.*
 
 1. (under review) Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski**. [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
-
-2. 
-  
-3. (under review) Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara. [MARVEL: Multiple Abstraction and Reasoning benchmark
+ 
+2. (under review) Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara. [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
 
 3. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **NeurIPS**.
