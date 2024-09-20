@@ -11,7 +11,7 @@ author_profile: true
 
 1. (under review) Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski**. [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
 
-2. (under review) Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew. [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP**. 
+2. 
   
 3. (under review) Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara. [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
@@ -26,72 +26,74 @@ for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS
 
 6. (to appear) Leilani Gilpin, **Filip Ilievski**. Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
 
-7. (to appear) Filip Ilievski. Human-centric AI with Common Sense. Springer Nature Synthesis Book.
+7. (to appear) Filip Ilievski. Human-centric AI with Common Sense. **Springer Nature Synthesis** Book.
 
-8. Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2024). [SemEval-2024 Task 9: BRAINTEASER, A
+8. Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew (2024). [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP** (Findings). 
+
+9. Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2024). [SemEval-2024 Task 9: BRAINTEASER, A
 Novel Task Defying Common Sense](https://arxiv.org/pdf/2404.16068). SemEval workshop, co-located with NAACL.
 
-9. Saurav Joshi, **Filip Ilievski**, Luca Luceri. [Contextualizing internet memes across social media platforms](https://arxiv.org/html/2311.11157v2). Workshop on Multimodal Content Analysis for Social Good: MM4SG.
+10. Saurav Joshi, **Filip Ilievski**, Luca Luceri. [Contextualizing internet memes across social media platforms](https://arxiv.org/html/2311.11157v2). Workshop on Multimodal Content Analysis for Social Good: MM4SG.
 
-10. Zhivar Sourati, **Filip Ilievski**, Pia Sommerauer (2024). [ARN: Analogical Reasoning on Narratives](https://arxiv.org/html/2310.00996v3). **TACL**.
+11. Zhivar Sourati, **Filip Ilievski**, Pia Sommerauer (2024). [ARN: Analogical Reasoning on Narratives](https://arxiv.org/html/2310.00996v3). **TACL**.
 
-11. Darshan Deshpande, Zhivar Sourati, **Filip Ilievski**, Fred Morstatter (2024). [Contextualizing Argument Quality Assessment with Relevant Knowledge](https://arxiv.org/pdf/2305.12280). **NAACL**.
+12. Darshan Deshpande, Zhivar Sourati, **Filip Ilievski**, Fred Morstatter (2024). [Contextualizing Argument Quality Assessment with Relevant Knowledge](https://arxiv.org/pdf/2305.12280). **NAACL**.
 
-12. Bradley P. Allen, **Filip Ilievski** (2024). [Standardizing Knowledge Engineering Practices with a Reference Architecture](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.2.1.5). Transactions on Graph and Data Knowledge (TGDK).
+13. Bradley P. Allen, **Filip Ilievski** (2024). [Standardizing Knowledge Engineering Practices with a Reference Architecture](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.2.1.5). Transactions on Graph and Data Knowledge (TGDK).
 
-13. M. Jaleed Khan, **Filip Ilievski**, John G. Breslin, Edward Curry (2024). 
+14. M. Jaleed Khan, **Filip Ilievski**, John G. Breslin, Edward Curry (2024). 
 [A Survey of Neurosymbolic Visual Reasoning with Scene Graphs and Common Sense Knowledge](https://neurosymbolic-ai-journal.com/system/files/nai-paper-719.pdf). **Neurosymbolic Artificial Intelligence journal**.
 
-14. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). [Knowledge-powered recommendation for an improved diet water footprint](https://doi.org/10.1609/aaai.v38i21.30571). AAAI demonstration program.
+15. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). [Knowledge-powered recommendation for an improved diet water footprint](https://doi.org/10.1609/aaai.v38i21.30571). AAAI demonstration program.
 
-15. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). [FIRE: Food Image to REcipe generation](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf). **WACV**.
+16. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). [FIRE: Food Image to REcipe generation](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf). **WACV**.
 
-16. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). [Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models](https://openreview.net/pdf?id=YrYcoV2dAk). **R0-FoMo, co-located with NeurIPS**.
+17. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). [Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models](https://openreview.net/pdf?id=YrYcoV2dAk). **R0-FoMo, co-located with NeurIPS**.
 
-17. **Filip Ilievski**, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely (2023). A Study of Concept Similarity in Wikidata. **Semantic Web Journal**.
+18. **Filip Ilievski**, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely (2023). A Study of Concept Similarity in Wikidata. **Semantic Web Journal**.
 
-18. Prateek Chhikara, Jiarui Zhang, **Filip Ilievski**, Jonathan Francis, Kaixin Ma (2023). [Knowledge-enhanced Agents for Interactive Text Games](https://dl.acm.org/doi/10.1145/3587259.3627561). **K-CAP**. **Best Student Paper Award**.
+19. Prateek Chhikara, Jiarui Zhang, **Filip Ilievski**, Jonathan Francis, Kaixin Ma (2023). [Knowledge-enhanced Agents for Interactive Text Games](https://dl.acm.org/doi/10.1145/3587259.3627561). **K-CAP**. **Best Student Paper Award**.
 
-19. Yifan Jiang, **Filip Ilievski**, Kaixin Ma, Zhivar Sourati (2023). [BRAINTEASER: Lateral Thinking Puzzles for Large Language Models](https://aclanthology.org/2023.emnlp-main.885/). **EMNLP**.
+20. Yifan Jiang, **Filip Ilievski**, Kaixin Ma, Zhivar Sourati (2023). [BRAINTEASER: Lateral Thinking Puzzles for Large Language Models](https://aclanthology.org/2023.emnlp-main.885/). **EMNLP**.
 
-20. Yifan Jiang, **Filip Ilievski**, Kaixin Ma (2023). [Transferring Procedural Knowledge across Commonsense Tasks](https://ebooks.iospress.nl/doi/10.3233/FAIA230391). **European Conference on Artificial Intelligence (ECAI)**.
+21. Yifan Jiang, **Filip Ilievski**, Kaixin Ma (2023). [Transferring Procedural Knowledge across Commonsense Tasks](https://ebooks.iospress.nl/doi/10.3233/FAIA230391). **European Conference on Artificial Intelligence (ECAI)**.
 
-21. Ana Iglesias-Molina, Kian Ahrabian, **Filip Ilievski**, Jay Pujara, Oscar Corcho (2023). [Comparison of Knowledge Graph Representations for User Consumption Scenarios](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_15). **International Semantic Web Conference (ISWC)** Research Track.
+22. Ana Iglesias-Molina, Kian Ahrabian, **Filip Ilievski**, Jay Pujara, Oscar Corcho (2023). [Comparison of Knowledge Graph Representations for User Consumption Scenarios](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_15). **International Semantic Web Conference (ISWC)** Research Track.
 
-22. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2023). [A study of situational reasoning in traffic](https://arxiv.org/abs/2306.02520). **KDD**.
+23. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2023). [A study of situational reasoning in traffic](https://arxiv.org/abs/2306.02520). **KDD**.
 
-23. Alessandro Oltramari, Jonathan Francis, **Filip Ilievski**, Kaixin Ma, Roshanak Mirzaee (2023). [Generalizable Neuro-Symbolic Systems for Commonsense Question Answering](https://ceur-ws.org/Vol-3432/paper38.pdf). Workshop on Neuro-Symbolic Learning and Reasoning (NeSy2023).
+24. Alessandro Oltramari, Jonathan Francis, **Filip Ilievski**, Kaixin Ma, Roshanak Mirzaee (2023). [Generalizable Neuro-Symbolic Systems for Commonsense Question Answering](https://ceur-ws.org/Vol-3432/paper38.pdf). Workshop on Neuro-Symbolic Learning and Reasoning (NeSy2023).
 
-24. Abhinav Kumar Thakur, **Filip Ilievski**, H\^ong-\^An Sandlin, Zhivar Sourati, Luca Luceri, Riccardo Tommasini, Alain Mermoud (2023). [Explainable Classification of Internet Memes](https://ceur-ws.org/Vol-3432/paper33.pdf). Workshop on Neuro-Symbolic Learning and Reasoning (NeSy2023).
+25. Abhinav Kumar Thakur, **Filip Ilievski**, H\^ong-\^An Sandlin, Zhivar Sourati, Luca Luceri, Riccardo Tommasini, Alain Mermoud (2023). [Explainable Classification of Internet Memes](https://ceur-ws.org/Vol-3432/paper33.pdf). Workshop on Neuro-Symbolic Learning and Reasoning (NeSy2023).
 
-25. Zhivar Sourati, **Filip Ilievski**, Hông-Ân Sandlin, Alain Mermoud (2023). [Case-based Reasoning with Language Models for Classification of Logical Fallacies](https://arxiv.org/abs/2301.11879). **International Joint Conference on Artificial Intelligence (IJCAI)**.
+26. Zhivar Sourati, **Filip Ilievski**, Hông-Ân Sandlin, Alain Mermoud (2023). [Case-based Reasoning with Language Models for Classification of Logical Fallacies](https://arxiv.org/abs/2301.11879). **International Joint Conference on Artificial Intelligence (IJCAI)**.
 
-26. **Filip Ilievski**, Kaixin Ma, Alessandro Oltramari, Peifeng Wang, Jay Pujara (2023). [Building Robust and Explainable AI with Commonsense Knowledge Graphs and Neural Models](https://www.iospress.com/catalog/books/compendium-of-neurosymbolic-artificial-intelligence). **Compendium of Neuro-Symbolic Artificial Intelligence (book chapter)**.
+27. **Filip Ilievski**, Kaixin Ma, Alessandro Oltramari, Peifeng Wang, Jay Pujara (2023). [Building Robust and Explainable AI with Commonsense Knowledge Graphs and Neural Models](https://www.iospress.com/catalog/books/compendium-of-neurosymbolic-artificial-intelligence). **Compendium of Neuro-Symbolic Artificial Intelligence (book chapter)**.
 
-27. Riccardo Tommasini, **Filip Ilievski**, Thilini Wijesiriwardene (2023). [The Internet Meme Knowledge Graph](https://2023.eswc-conferences.org/wp-content/uploads/2023/05/paper_Tommasini_2023_The.pdf). **Extended Semantic Web Conference (ESWC)** Resource Track.
+28. Riccardo Tommasini, **Filip Ilievski**, Thilini Wijesiriwardene (2023). [The Internet Meme Knowledge Graph](https://2023.eswc-conferences.org/wp-content/uploads/2023/05/paper_Tommasini_2023_The.pdf). **Extended Semantic Web Conference (ESWC)** Resource Track.
 
-28. Zhivar Sourati, Vishnu Priya Prasanna Venkatesh, Darshan Deshpande, Himanshu Rawlani, **Filip Ilievski**, Hông-Ân Sandlin, Alain Mermoud (2023). [Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments](https://arxiv.org/pdf/2212.07425.pdf). **Knowledge-Based Systems (KBS)**.
+29. Zhivar Sourati, Vishnu Priya Prasanna Venkatesh, Darshan Deshpande, Himanshu Rawlani, **Filip Ilievski**, Hông-Ân Sandlin, Alain Mermoud (2023). [Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments](https://arxiv.org/pdf/2212.07425.pdf). **Knowledge-Based Systems (KBS)**.
 
-29. Peifeng Wang, Aaron Chan, **Filip Ilievski**, Muhao Chen, Xiang Ren (2023). [PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales](https://arxiv.org/pdf/2211.01562.pdf). **International Conference on Learning Representations (ICLR)**. 2023.
+30. Peifeng Wang, Aaron Chan, **Filip Ilievski**, Muhao Chen, Xiang Ren (2023). [PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales](https://arxiv.org/pdf/2211.01562.pdf). **International Conference on Learning Representations (ICLR)**. 2023.
 
-30. Abhinav Kumar Thakur, **Filip Ilievski**, H\^ong-\^An Sandlin, Alain Mermoud, Zhivar Sourati, Luca Luceri, Riccardo Tommasini (2023). [Multimodal and Explainable Internet Meme Classification](https://amulyayadav.github.io/AI4SG2023/images/21.pdf). AAAI AI4SG workshop.
+31. Abhinav Kumar Thakur, **Filip Ilievski**, H\^ong-\^An Sandlin, Alain Mermoud, Zhivar Sourati, Luca Luceri, Riccardo Tommasini (2023). [Multimodal and Explainable Internet Meme Classification](https://amulyayadav.github.io/AI4SG2023/images/21.pdf). AAAI AI4SG workshop.
 
 
-31. Peifeng Wang, Aaron Chan, **Filip Ilievski**, Muhao Chen, Xiang Ren (2022). [PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales](https://arxiv.org/pdf/2211.01562.pdf). NeurIPS workshops TL4NLP and TSRML.
+32. Peifeng Wang, Aaron Chan, **Filip Ilievski**, Muhao Chen, Xiang Ren (2022). [PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales](https://arxiv.org/pdf/2211.01562.pdf). NeurIPS workshops TL4NLP and TSRML.
 
-32. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2022). [Utilizing Background Knowledge for Robust Reasoning over Traffic Situations](https://knowledge-nlp.github.io/aaai2023/papers/023-Background-poster.pdf). AAAI Workshop on Knowledge Augmented Methods for NLP.
+33. Jiarui Zhang, **Filip Ilievski**, Aravinda Kolla, Jonathan Francis, Kaixin Ma, Alessandro Oltramari (2022). [Utilizing Background Knowledge for Robust Reasoning over Traffic Situations](https://knowledge-nlp.github.io/aaai2023/papers/023-Background-poster.pdf). AAAI Workshop on Knowledge Augmented Methods for NLP.
 
-33. Ehsan Qasemi, **Filip Ilievski**, Muhao Chen, Pedro Szekely (2022). [PaCo: Preconditions Attributed to Commonsense Knowledge](https://aclanthology.org/2022.findings-emnlp.505.pdf). **Conference on Empirical Methods in Natural Language Processing (EMNLP)** Findings.
+34. Ehsan Qasemi, **Filip Ilievski**, Muhao Chen, Pedro Szekely (2022). [PaCo: Preconditions Attributed to Commonsense Knowledge](https://aclanthology.org/2022.findings-emnlp.505.pdf). **Conference on Empirical Methods in Natural Language Processing (EMNLP)** Findings.
 
-34. **Filip Ilievski**, Jay Pujara, Kartik Shenoy (2022). [Does Wikidata Support Analogical Reasoning?](https://link.springer.com/chapter/10.1007/978-3-031-21422-6_13) KGSWC.
+35. **Filip Ilievski**, Jay Pujara, Kartik Shenoy (2022). [Does Wikidata Support Analogical Reasoning?](https://link.springer.com/chapter/10.1007/978-3-031-21422-6_13) KGSWC.
 
-35. Bohui Zhang, **Filip Ilievski**, Pedro Szekely (2022). [Enriching Wikidata with Linked Open Data](https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_8682.pdf). ISWC Wikidata workshop.
+36. Bohui Zhang, **Filip Ilievski**, Pedro Szekely (2022). [Enriching Wikidata with Linked Open Data](https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_8682.pdf). ISWC Wikidata workshop.
 
-36. Nicholas Klein, **Filip Ilievski**, Hayden Freedman, Pedro Szekely (2022). [Identifying Surprising Facts in Wikidata](https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_295.pdf). ISWC Wikidata workshop.
+37. Nicholas Klein, **Filip Ilievski**, Hayden Freedman, Pedro Szekely (2022). [Identifying Surprising Facts in Wikidata](https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_295.pdf). ISWC Wikidata workshop.
 
-37. Jiarui Zhang, **Filip Ilievski**, Kaixin Ma, Jonathan Francis, Alessandro Oltramari (2022). [A Study of Zero-shot Adaptation with Commonsense Knowledge](https://www.akbc.ws/2022/assets/pdfs/3_a_study_of_zero_shot_adaptatio.pdf). **Automated Knowledge Base Construction (AKBC)**.
+38. Jiarui Zhang, **Filip Ilievski**, Kaixin Ma, Jonathan Francis, Alessandro Oltramari (2022). [A Study of Zero-shot Adaptation with Commonsense Knowledge](https://www.akbc.ws/2022/assets/pdfs/3_a_study_of_zero_shot_adaptatio.pdf). **Automated Knowledge Base Construction (AKBC)**.
 
-38. Kaixin Ma, **Filip Ilievski**, Jonathan Francis, Eric Nyberg, Alessandro Oltramari (2022). [Coalescing Global and Local Information for Procedural Text Understanding](https://aclanthology.org/2022.coling-1.132.pdf). **Conference on Computational Linguistics (COLING)**.
+39. Kaixin Ma, **Filip Ilievski**, Jonathan Francis, Eric Nyberg, Alessandro Oltramari (2022). [Coalescing Global and Local Information for Procedural Text Understanding](https://aclanthology.org/2022.coling-1.132.pdf). **Conference on Computational Linguistics (COLING)**.
 
 6.  Thiloshon Nagarajah, **Filip Ilievski**, Jay Pujara.
     [Understanding Narratives through Dimensions of
