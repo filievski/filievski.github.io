@@ -31,7 +31,7 @@ for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS
 9. Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2024). [SemEval-2024 Task 9: BRAINTEASER, A
 Novel Task Defying Common Sense](https://arxiv.org/pdf/2404.16068). SemEval workshop, co-located with NAACL.
 
-10. Saurav Joshi, **Filip Ilievski**, Luca Luceri. [Contextualizing internet memes across social media platforms](https://arxiv.org/html/2311.11157v2). Workshop on Multimodal Content Analysis for Social Good: MM4SG.
+10. Saurav Joshi, **Filip Ilievski**, Luca Luceri. [Contextualizing internet memes across social media platforms](https://arxiv.org/html/2311.11157v2). Workshop on Multimodal Content Analysis for Social Good: MM4SG. **Best Paper and Best Presentation Award**.
 
 11. Zhivar Sourati, **Filip Ilievski**, Pia Sommerauer (2024). [ARN: Analogical Reasoning on Narratives](https://arxiv.org/html/2310.00996v3). **TACL**.
 
