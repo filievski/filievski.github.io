@@ -13,7 +13,7 @@ redirect_from:
 * **Affiliated Scientist**, [USC Information Sciences Institute (USC/ISI)](https://www.isi.edu)
 * **Affiliated Scientist**, [Amsterdam Sustainability Institute (ASI)](https://vu.nl/en/about-vu/research-institutes/asi)
 * **Scientific Coordinator**, [Digital Sustainability Institute (DiSC)](https://digitalsustainabilitycenter.nl)
-* **Minor Coordinator**, [Situated AI (BSc)](https://vu.nl/en/education/minor/situated-ai)
+* **Coordinator**, [Situated AI (BSc Minor)](https://vu.nl/en/education/minor/situated-ai)
 * **Research Assistant Professor**, USC Computer Science (2022-2023)
 * **Research Scientist and Research Lead**, USC Information Sciences Institute (2019-2023)
 * **PhD**, Vrije University Amsterdam (2015-2019)
@@ -24,7 +24,7 @@ redirect_from:
 
 
 ## Open positions
-I am currently working on growing my team at VU Amsterdam. I like collaborating with strong students passionate about human-centric AI with common sense and state-of-the-art technologies like language models and neuro-symbolic systems. 
+I am currently growing my team at VU Amsterdam. I like collaborating with strong students passionate about human-centric AI with common sense and state-of-the-art technologies like language models and neuro-symbolic systems. 
 
 Primarily, I am hiring **PhD students and Postdocs** for my new personal cross-disciplinary project, "Human-Centric AI with Common Sense," which is [funded by NWO AiNed's career program](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski). The topics focus on value-aware AI, analogical abstraction, and developing world models with common sense. The calls for these positions are ongoing (some have been closed, and the rest are/will be open).
 
