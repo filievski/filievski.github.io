@@ -14,9 +14,9 @@ author_profile: true
 2. (under review) Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara. [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
 
-3. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **NeurIPS**.
+3. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **ICLR**.
 
-5. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Towards Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal LLMs. NeurIPS.
+5. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Towards Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal LLMs. **ICLR**.
 
 5. (to appear) **Filip Ilievski**, Riccardo Tommasini. Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
