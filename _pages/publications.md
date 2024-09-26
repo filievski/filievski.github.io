@@ -11,20 +11,20 @@ author_profile: true
 
 1. (under review) Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski**. [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
  
-2. (under review) Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara. [MARVEL: Multiple Abstraction and Reasoning benchmark
-for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
+2. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **ICLR**.
 
-3. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **ICLR**.
+3. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Towards Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal LLMs. **ICLR**.
 
-5. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Towards Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal LLMs. **ICLR**.
-
-5. (to appear) **Filip Ilievski**, Riccardo Tommasini. Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
+4. (to appear) **Filip Ilievski**, Riccardo Tommasini. Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
 5. (to appear) Mohammad Jaleed Khan, **Filip Ilievski**, Edward Curry. Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
 6. (to appear) Leilani Gilpin, **Filip Ilievski**. Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
 
 7. (to appear) Filip Ilievski. Human-centric AI with Common Sense. **Springer Nature Synthesis** Book.
+
+8. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
+for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
 
 8. Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew (2024). [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP** (Findings). 
 
