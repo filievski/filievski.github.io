@@ -31,6 +31,8 @@ Primarily, I am hiring **PhD students and Postdocs** for my new personal cross-d
 Please apply if you are interested in these topics and would like to work with me as a PhD student or a Postdoc. If you can't find (an adequate) a call where you can apply, please email me, as the next position is likely coming out soon.
 
 ## News
+* For VU/UvA AI students: I am now accepting thesis supervision students for Spring 2025. For the list of topics, see our group's Canvas page. 
+* We submitted two of the Master theses I supervised in Spring 2024 to A* conferences (AAAI and The Web Conference).
 * I was interviewed for the BBC article [When robots can't riddle: What puzzles reveal about the depths of our own minds
 ](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind). The research I described was conducted with Koen Kraaijveld, Yifan Jiang, and Kaixin Ma. The article is part of the series "AI v. the Mind," which explores "the limits of cutting-edge AI and learns a little about how our own brains work along the way."
 * I am teaching two courses this Fall: [Conversational AI (BSc)](https://studiegids.vu.nl/en/courses/2024-2025/XB_0119#/) and [The Social Web (MSc)](https://studiegids.vu.nl/EN/courses/2024-2025/X_405086#/).
