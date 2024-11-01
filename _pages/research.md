@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-We investigate how to advance the development of **human-centered AI systems with common sense** tailored for **social good** applications.
+We investigate how to advance the development of **human-centric AI with common sense** tailored for **social good** applications.
 
 We perform fundamental research on commonsense AI and investigate its application to challenging domains, informed by **empirical insights and cognitive theories**.
 
