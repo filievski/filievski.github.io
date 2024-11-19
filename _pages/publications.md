@@ -15,7 +15,7 @@ author_profile: true
  
 3. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **ICLR**.
 
-4. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Towards Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal LLMs. **ICLR**.
+4. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Exploring Perceptual Limitations of Multimodal LLMs on Small Visual Objects. **NAACL**.
 
 5. (to appear) **Filip Ilievski**, Riccardo Tommasini. Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
