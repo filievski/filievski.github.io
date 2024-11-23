@@ -98,31 +98,31 @@ Rule induction for educational recommendations
 **Ruthu H. Rooparaghunath**, RA, 2024 \
 Analogical reasoning
 
-**Darshan Girish Deshpande**, MS, 2022-2024 \
+**Darshan Girish Deshpande**, RA, 2022-2024 \
 Active learning with LLMs
 
 **Peifeng Wang**, PhD, 2020-2023 \
 Commonsense reasoning with knowledge graphs and language models
 
-**Prateek Chhikara**, MS, 2022-2023 \
+**Prateek Chhikara**, RA, 2022-2023 \
 Text-based games with commonsense reasoning
 
-**Yifan Jiang**, MS, 2022-2023 \
+**Yifan Jiang**, RA, 2022-2023 \
 Procedural reasoning
 
-**Vishnu Priya Prasanna Venkatesh**, MS, 2022-2023 \
+**Vishnu Priya Prasanna Venkatesh**, RA, 2022-2023 \
 Logical fallacy identification
 
-**Himanshu Rawlani**, MS, 2022 \
+**Himanshu Rawlani**, RA, 2022 \
 Propaganda detection
 
-**Thiloshon Nagarajah**, MS, 2022 \
+**Thiloshon Nagarajah**, RA, 2022 \
 Understanding affordances in procedures
 
-**Aravinda Kolla**, MS, 2022 \
+**Aravinda Kolla**, RA, 2022 \
 Slang representation learning
 
-**Abhinav Kumar Thakur**, MS, 2022 \
+**Abhinav Kumar Thakur**, RA, 2022 \
 Meme understanding
 
 **Ana Iglesias**, PhD intern, 2022 \
@@ -131,31 +131,31 @@ Modeling Temporal Knowledge Graphs
 **Lucas Zhuang**, BS intern, 2022-\
 Knowledge Graph Fact Verification
 
-**Harshit Manektalia**, MS, 2022\
+**Harshit Manektalia**, RA, 2022\
 Dimensional similarity of concepts
 
-**Shubham Akhilesh Singh**, MS, 2022\
+**Shubham Akhilesh Singh**, RA, 2022\
 Knowledge graph question answering
 
-**Jiasheng Gu**, MS, 2022\
+**Jiasheng Gu**, RA, 2022\
 Link prediction with critic language models
 
-**Dweepa Honnavali**, MS, 2022\
+**Dweepa Honnavali**, RA, 2022\
 Commonsense story generation
 
-**Vaibhav Vats**, MS, 2022\
+**Vaibhav Vats**, RA, 2022\
 Entity linking in Wikidata
 
-**Sukavanan Nanjundan**, MS, 2022\
+**Sukavanan Nanjundan**, RA, 2022\
 Dimensional similarity of concepts
 
-**Jiang Wang**, MS, 2021-2022\
+**Jiang Wang**, RA, 2021-2022\
 Link prediction with augmented knowledge graphs
 
 **Jiarui Zhang**, BS, 2021-2022\
 Zero-shot commonsense reasoning with knowledge graphs
 
-**Bohui Zhang**, MS, 2021-2022\
+**Bohui Zhang**, RA, 2021-2022\
 Enriching Wikidata with linked open data
 
 **Nicholas Klein**, MS (USC/ISI Rising star program), 2020-2022\
@@ -167,10 +167,10 @@ Biases in commonsense knowledge sources
 **Zaina Shaik**, BS (NSF REU program), 2021\
 Biases in factual knowledge graphs
 
-**Pushkaraj Jitendra Sarnobat**, MS, 2021\
+**Pushkaraj Jitendra Sarnobat**, RA, 2021\
 Scene graph generation
 
-**Kartik Shenoy**, MS, 2021-2022\
+**Kartik Shenoy**, RA, 2021-2022\
 Wikidata quality and concept similarity
 
 **Ehsan Qasemi**, PhD, 2020-2021\
@@ -179,8 +179,8 @@ Preconditions of commonsense knowledge
 **Avijit Thawani**, PhD, 2020-2021\
 Language model numeracy
 
-**Bin Zhang**, MS, 2020-2021\
+**Bin Zhang**, RA, 2020-2021\
 Organizing commonsense knowledge, and integration with language models
 
-**Hanzhi Zhang**, MS, 2020-2021\
+**Hanzhi Zhang**, RA, 2020-2021\
 Commonsense story generation and explanation
