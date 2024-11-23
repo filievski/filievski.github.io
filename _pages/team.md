@@ -152,7 +152,7 @@ Dimensional similarity of concepts
 **Jiang Wang**, RA, 2021-2022\
 Link prediction with augmented knowledge graphs
 
-**Jiarui Zhang**, BS, 2021-2022\
+**Jiarui Zhang**, RA, 2021-2022\
 Zero-shot commonsense reasoning with knowledge graphs
 
 **Bohui Zhang**, RA, 2021-2022\
