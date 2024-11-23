@@ -158,13 +158,13 @@ Zero-shot commonsense reasoning with knowledge graphs
 **Bohui Zhang**, RA, 2021-2022\
 Enriching Wikidata with linked open data
 
-**Nicholas Klein**, MS (USC/ISI Rising star program), 2020-2022\
+**Nicholas Klein**, RA (USC/ISI Rising star program), 2020-2022\
 Profiling Wikidata entities and identification of surprising facts
 
-**Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha**, MS (CKIDS program), 2021\
+**Sara Melotte, Aditya Malte, Linglan Zhang, Namita Mutha**, RA (CKIDS program), 2021\
 Biases in commonsense knowledge sources
 
-**Zaina Shaik**, BS (NSF REU program), 2021\
+**Zaina Shaik**, RA (NSF REU program), 2021\
 Biases in factual knowledge graphs
 
 **Pushkaraj Jitendra Sarnobat**, RA, 2021\
