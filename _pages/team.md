@@ -13,7 +13,7 @@ author_profile: true
     <img style="height:200px" src="../images/Hossein.png">
 </td>
   <td style="text-align: center; border: none">
-        <img style="height:200px" src="../images/Brad.jpg">
+        <img style="height:200px" src="../images/Gabriella.jpeg">
   </td>
 <td style="text-align: center; border: none">
 <img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
@@ -21,19 +21,26 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-    <p><b>Mohammad Hossein Khojasteh</b>, VU Amsterdam, 2024-<br/>
+    <p><b>Mohammad Hossein Khojasteh</b> 2024-<br/>
     Analogical Abstraction</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
-    NeSy Knowledge Engineering</p>
+    <p><b>Gabriella Bollici</b>, 2024-<br/>
+    Value-aware Reasoning about Memes</p>
   </td>
   <td style="text-align: center; border: none">  
     <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
     Robust Autoformalization with LLMs</p>
   </td>
-  </tr>
-  <tr style="border: none;">
+</table>
+
+## External PhD Students
+
+<table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
+<tr style="border: none;">
+  <td style="text-align: center; border: none">
+        <img style="height:200px" src="../images/Brad.jpg">
+  </td>
   <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Zhivar.jpg">
   </td>
@@ -42,6 +49,10 @@ author_profile: true
 </td>
 </tr>
 <tr style="border: none;">
+  <td style="text-align: center; border: none">
+    <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
+    NeSy Knowledge Engineering</p>
+  </td>
   <td style="text-align: center; border: none">
     <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
   Cognitively-inspired Abstraction in AI</p>
@@ -52,6 +63,7 @@ author_profile: true
   </td>
   </tr>
 </table>
+
 
 ## Research Assistants
 
