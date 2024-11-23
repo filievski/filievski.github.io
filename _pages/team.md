@@ -32,6 +32,7 @@ author_profile: true
     <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
     Robust Autoformalization with LLMs</p>
   </td>
+</tr>
 </table>
 
 ## External PhD Students
