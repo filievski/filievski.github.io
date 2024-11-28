@@ -32,6 +32,7 @@ Primarily, I am hiring **PhD students and Postdocs** for my new personal cross-d
 Please apply if you are interested in these topics and would like to work with me as a PhD student or a Postdoc. If you can't find (an adequate) a call where you can apply, please email me, as the next position is likely coming out soon.
 
 ## News
+* I joined [the ELLIS society](https://ellis.eu). ELLIS stands for "European Laboratory for Learning and Intelligent Systems".
 * For VU/UvA AI students: I am now accepting thesis supervision students for Spring 2025. For the list of topics, see our group's Canvas page. 
 * We submitted two of the Master theses I supervised in Spring 2024 to A* conferences (AAAI and The Web Conference).
 * I was interviewed for the BBC article [When robots can't riddle: What puzzles reveal about the depths of our own minds
