@@ -14,6 +14,7 @@ redirect_from:
 * **Affiliated Scientist**, [Amsterdam Sustainability Institute (ASI)](https://vu.nl/en/about-vu/research-institutes/asi)
 * **Scientific Coordinator**, [Digital Sustainability Institute (DiSC)](https://digitalsustainabilitycenter.nl)
 * **Coordinator**, [Situated AI (BSc Minor)](https://vu.nl/en/education/minor/situated-ai)
+* **Member**, [ELLIS - the European Laboratory for Learning and Intelligent Systems](https://ellis.eu)
 * **Research Assistant Professor**, USC Computer Science (2022-2023)
 * **Research Scientist and Research Lead**, USC Information Sciences Institute (2019-2023)
 * **PhD**, Vrije University Amsterdam (2015-2019)
