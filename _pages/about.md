@@ -25,11 +25,11 @@ redirect_from:
 
 
 ## Open positions
-I am currently growing my team at VU Amsterdam. I like collaborating with strong students passionate about human-centric AI with common sense and state-of-the-art technologies like language models and neuro-symbolic systems. 
+We have two Postdoc positions open until January 15th:
 
-Primarily, I am hiring **PhD students and Postdocs** for my new personal cross-disciplinary project, "Human-Centric AI with Common Sense," which is [funded by NWO AiNed's career program](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski). The topics focus on value-aware AI, analogical abstraction, and developing world models with common sense. The calls for these positions are ongoing (some have been closed, and the rest are/will be open).
+1. [Commonsense reasoning with multimodal foundation models](https://workingat.vu.nl/vacancies/postdoctoral-position-commonsense-reasoning-with-multimodal-foundation-models-amsterdam-1126580?utm_source=linkedin&utm_medium=job_wrapping) - supervised together with [Cees Snoek](https://www.ceessnoek.info/) (Video & Image Sense Lab, University of Amsterdam), funded [by my NWO AiNed project on human-centric AI with common sense](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski).
 
-Please apply if you are interested in these topics and would like to work with me as a PhD student or a Postdoc. If you can't find (an adequate) a call where you can apply, please email me, as the next position is likely coming out soon.
+2. [Knowledge-informed reasoning about the harmfulness of internet memes](https://workingat.vu.nl/vacancies/postdoc-knowledge-informed-reasoning-about-the-harmfulness-of-internet-memes-amsterdam-1126664) - supervised together with Frank van Harmelen, in collaboration with Huawei Lab.
 
 ## News
 * I joined [the ELLIS society](https://ellis.eu). ELLIS stands for "European Laboratory for Learning and Intelligent Systems".
