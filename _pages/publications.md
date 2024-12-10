@@ -7,14 +7,12 @@ author_profile: true
 
   *See also: <u><a href="https://scholar.google.com/citations?user=4ZScBc0AAAAJ&hl=en">Google Scholar</a></u>*
 
-*Over seventy peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, COLING, EMNLP, NAACL, ACL, ICLR, AKBC, ISWC, ESWC, SWJ, JWS, KBS). An additional nine papers are currently under review.*
+*Over seventy peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, EMNLP, NAACL, ACL, ICLR, NeurIPS, SWJ, KBS). An additional nine papers are currently under review.*
 
 1. (under review) Huabin Liu, **Filip Ilievski**, Cees Snoek. Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning. **CVPR**.
 
 2. (under review) Tygo Bloem, **Filip Ilievski**. Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity. The Web Conference.
-   
-4. (under review) Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski**. [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
- 
+    
 5. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **ICLR**.
 
 6. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Exploring Perceptual Limitations of Multimodal LLMs on Small Visual Objects. **NAACL**.
@@ -27,7 +25,9 @@ author_profile: true
 
 10. (to appear) Filip Ilievski. Human-centric AI with Common Sense. **Springer Nature Synthesis** Book.
 
-11. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
+11. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
+
+12. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
 
 8. Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew (2024). [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP** (Findings). 
