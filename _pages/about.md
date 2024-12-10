@@ -32,9 +32,10 @@ We have two Postdoc positions open until January 15th:
 2. [Knowledge-informed reasoning about the harmfulness of internet memes](https://workingat.vu.nl/vacancies/postdoc-knowledge-informed-reasoning-about-the-harmfulness-of-internet-memes-amsterdam-1126664) - supervised together with [Frank van Harmelen](https://www.cs.vu.nl/~frankh/), in collaboration with Huawei Lab.
 
 ## News
+* Welcome to [Gabriella Bollici](https://nl.linkedin.com/in/gabriella-bollici-bab32123b), who joined our group as a PhD student on December 1st. Gabriella will be supervised by me and Wouter van Atteveldt (professor of political science) and will explore narratives in internet memes.
 * I joined [the ELLIS society](https://ellis.eu). ELLIS stands for "European Laboratory for Learning and Intelligent Systems".
 * For VU/UvA AI students: I am now accepting thesis supervision students for Spring 2025. For the list of topics, see our group's Canvas page. 
-* We submitted two of the Master theses I supervised in Spring 2024 to A* conferences (AAAI and The Web Conference).
+* We submitted two Master theses I supervised in Spring 2024 to A* conferences. [One, based on Koen Kraaijveld's thesis,](https://columbus-vqa.github.io/) was already accepted at AAAI 2025!
 * I was interviewed for the BBC article [When robots can't riddle: What puzzles reveal about the depths of our own minds
 ](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind). The research I described was conducted with Koen Kraaijveld, Yifan Jiang, and Kaixin Ma. The article is part of the series "AI v. the Mind," which explores "the limits of cutting-edge AI and learns a little about how our own brains work along the way."
 * I am teaching two courses this Fall: [Conversational AI (BSc)](https://studiegids.vu.nl/en/courses/2024-2025/XB_0119#/) and [The Social Web (MSc)](https://studiegids.vu.nl/EN/courses/2024-2025/X_405086#/).
