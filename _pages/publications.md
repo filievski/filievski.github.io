@@ -46,13 +46,13 @@ Novel Task Defying Common Sense](https://arxiv.org/pdf/2404.16068). SemEval work
 14. M. Jaleed Khan, **Filip Ilievski**, John G. Breslin, Edward Curry (2024). 
 [A Survey of Neurosymbolic Visual Reasoning with Scene Graphs and Common Sense Knowledge](https://neurosymbolic-ai-journal.com/system/files/nai-paper-719.pdf). **Neurosymbolic Artificial Intelligence journal**.
 
-15. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). [Knowledge-powered recommendation for an improved diet water footprint](https://doi.org/10.1609/aaai.v38i21.30571). AAAI demonstration program.
+15. **Filip Ilievski**, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely (2024). A Study of Concept Similarity in Wikidata. **Semantic Web Journal**.
 
-16. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). [FIRE: Food Image to REcipe generation](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf). **WACV**.
+16. Saurav Joshi, **Filip Ilievski**, Jay Pujara (2024). [Knowledge-powered recommendation for an improved diet water footprint](https://doi.org/10.1609/aaai.v38i21.30571). AAAI demonstration program.
 
-17. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). [Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models](https://openreview.net/pdf?id=YrYcoV2dAk). **R0-FoMo, co-located with NeurIPS**.
+17. Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, **Filip Ilievski** (2024). [FIRE: Food Image to REcipe generation](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf). **WACV**.
 
-18. **Filip Ilievski**, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely (2023). A Study of Concept Similarity in Wikidata. **Semantic Web Journal**.
+18. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski** (2023). [Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models](https://openreview.net/pdf?id=YrYcoV2dAk). **R0-FoMo, co-located with NeurIPS**.
 
 19. Prateek Chhikara, Jiarui Zhang, **Filip Ilievski**, Jonathan Francis, Kaixin Ma (2023). [Knowledge-enhanced Agents for Interactive Text Games](https://dl.acm.org/doi/10.1145/3587259.3627561). **K-CAP**. **Best Student Paper Award**.
 
