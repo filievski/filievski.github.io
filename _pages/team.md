@@ -33,20 +33,13 @@ author_profile: true
     Robust Autoformalization with LLMs</p>
   </td>
 </tr>
-</table>
-
-## External PhD Students
-
-<table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
   <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Brad.jpg">
   </td>
   <td style="text-align: center; border: none">
-        <img style="height:200px" src="../images/Zhivar.jpg">
   </td>
   <td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Jerry.jpg">
 </td>
 </tr>
 <tr style="border: none;">
@@ -55,12 +48,8 @@ author_profile: true
     NeSy Knowledge Engineering</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Zhivar Sourati</b>, USC/ISI, 2022-<br/>
-  Cognitively-inspired Abstraction in AI</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Jiarui Zhang</b>, USC/ISI, 2022-<br/>
-      Multimodal Complex Reasoning</p>
   </td>
   </tr>
 </table>
