@@ -75,10 +75,10 @@ author_profile: true
 
 ## Past
 
-**Zhivar Sourati**, PhD student, 2022-2024
+**Zhivar Sourati**, PhD student, 2022-2024 \
 Cognitively-inspired reasoning methods
 
-**Jiarui Zhang**, PhD student, 2022-2024
+**Jiarui Zhang**, PhD student, 2022-2024 \
 Multimodal AI
 
 **Koen Kraaijveld**, RA, 2024 \
