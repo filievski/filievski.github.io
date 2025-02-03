@@ -32,8 +32,8 @@ We have two Postdoc positions open until January 15th:
 2. [Knowledge-informed reasoning about the harmfulness of internet memes](https://workingat.vu.nl/vacancies/postdoc-knowledge-informed-reasoning-about-the-harmfulness-of-internet-memes-amsterdam-1126664) - supervised together with [Frank van Harmelen](https://www.cs.vu.nl/~frankh/), in collaboration with Huawei Lab.
 
 ## News
-
-* I will give a talk in the Neurosymbolic AI (NAI) seminar series on Tuesday, 28th of January at 15h CET / 9am ET / 6am PT. Topic: [Abstraction and Reasoning Beyond Foundation Models](https://www.linkedin.com/posts/pascalhitzler_abstraction-and-reasoning-beyond-foundation-activity-7275974165189275648-6fPF/).
+* On Feb 3 and 4, I am visiting Konstantin Todorov and colleagues at the LIRMM (the Montpellier Laboratory of Computer Science, Robotics, and Microelectronics) institute. I will give a talk about what it takes to understand internet memes.
+* I gave a talk in the Neurosymbolic AI (NAI) seminar series at the end of January about [Abstraction and Reasoning Beyond Foundation Models](https://www.linkedin.com/posts/pascalhitzler_abstraction-and-reasoning-beyond-foundation-activity-7275974165189275648-6fPF/). The seminar recording will soon appear on NAI's YouTube channel.
 * My book [Human-Centric AI with Common Sense](https://link.springer.com/book/10.1007/978-3-031-69974-0) is now published in the Springer Nature Synthesis series.
 * The second iteration of our workshop Analogy-Angle ([Analogy-Angle II](https://analogy-angle.github.io)) will be co-located with ACl 2025 in Vienna.
 * Welcome to [Gabriella Bollici](https://nl.linkedin.com/in/gabriella-bollici-bab32123b), who joined our group as a PhD student on December 1st. Gabriella will be supervised by me and Wouter van Atteveldt (professor of political science) and will explore narratives in internet memes.
