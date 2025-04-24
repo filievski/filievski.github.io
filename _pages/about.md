@@ -32,7 +32,7 @@ We have two PhD positions open until May:
 
 
 ## News
-* In June-July, my team will welcome two new Postdocs: 1) Emile van Krieken, who will explore commonsense reasoning with multimodal foundation models, and 2) Stefano De Giorgis, who will research knowledge-informed reasoning about the harmfulness of internet memes.
+* In June-July, my team will welcome two new Postdocs: 1) [Emile van Krieken](https://emilevankrieken.com/), who will explore commonsense reasoning with multimodal foundation models, and 2) [Stefano De Giorgis](https://stendoipanni.github.io/), who will research knowledge-informed reasoning about the harmfulness of internet memes.
 * On Feb 3 and 4, I am visiting Konstantin Todorov and colleagues at the LIRMM (the Montpellier Laboratory of Computer Science, Robotics, and Microelectronics) institute. I will give a talk about what it takes to understand internet memes.
 * I gave a talk in the Neurosymbolic AI (NAI) seminar series at the end of January about [Abstraction and Reasoning Beyond Foundation Models](https://www.linkedin.com/posts/pascalhitzler_abstraction-and-reasoning-beyond-foundation-activity-7275974165189275648-6fPF/). The seminar recording will soon appear on NAI's YouTube channel.
 * My book [Human-Centric AI with Common Sense](https://link.springer.com/book/10.1007/978-3-031-69974-0) is now published in the Springer Nature Synthesis series.
