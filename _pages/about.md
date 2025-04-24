@@ -25,13 +25,14 @@ redirect_from:
 
 
 ## Open positions
-We have two Postdoc positions open until January 15th:
+We have two PhD positions open until May:
 
-1. [Commonsense reasoning with multimodal foundation models](https://workingat.vu.nl/vacancies/postdoctoral-position-commonsense-reasoning-with-multimodal-foundation-models-amsterdam-1126580?utm_source=linkedin&utm_medium=job_wrapping) - supervised together with [Cees Snoek](https://www.ceessnoek.info/) (Video & Image Sense Lab, University of Amsterdam), funded [by my NWO AiNed project on human-centric AI with common sense](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski).
+1. [Multimodal Alignment with Common Sense](https://workingat.vu.nl/vacancies/phd-position-multimodal-alignment-with-common-sense-amsterdam-1165407) - supervised together with [Shujian Yu](https://nl.linkedin.com/in/shujian-yu-7498b3104) (deadline 19-05)
+2. [Software Architecture for Human-Centric AI Systems](https://workingat.vu.nl/vacancies/phd-position-software-architecture-for-human-centric-ai-systems-amsterdam-1078515) - supervised together with [Justus Bogner](https://xjreb.github.io/) (deadline 05-05)
 
-2. [Knowledge-informed reasoning about the harmfulness of internet memes](https://workingat.vu.nl/vacancies/postdoc-knowledge-informed-reasoning-about-the-harmfulness-of-internet-memes-amsterdam-1126664) - supervised together with [Frank van Harmelen](https://www.cs.vu.nl/~frankh/), in collaboration with Huawei Lab.
 
 ## News
+* In June-July, my team will welcome two new Postdocs: 1) Emile van Krieken, who will explore commonsense reasoning with multimodal foundation models, and 2) Stefano De Giorgis, who will research knowledge-informed reasoning about the harmfulness of internet memes.
 * On Feb 3 and 4, I am visiting Konstantin Todorov and colleagues at the LIRMM (the Montpellier Laboratory of Computer Science, Robotics, and Microelectronics) institute. I will give a talk about what it takes to understand internet memes.
 * I gave a talk in the Neurosymbolic AI (NAI) seminar series at the end of January about [Abstraction and Reasoning Beyond Foundation Models](https://www.linkedin.com/posts/pascalhitzler_abstraction-and-reasoning-beyond-foundation-activity-7275974165189275648-6fPF/). The seminar recording will soon appear on NAI's YouTube channel.
 * My book [Human-Centric AI with Common Sense](https://link.springer.com/book/10.1007/978-3-031-69974-0) is now published in the Springer Nature Synthesis series.
