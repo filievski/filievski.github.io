@@ -45,7 +45,7 @@ author_profile: true
 <tr style="border: none;">
   <td style="text-align: center; border: none">
     <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
-    NeSy Knowledge Engineering</p>
+    Neurosymbolic Knowledge Engineering</p>
   </td>
   <td style="text-align: center; border: none">
   </td>
@@ -55,19 +55,26 @@ author_profile: true
 </table>
 
 
-## Research Assistants
+## Postdocs
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Kaan.jpeg">
+<img style="height:200px" src="../images/Emile.jpg">
+</td>
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Stefano.jpg">
 </td>
 
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Kaan Aslan</b>, VU Amsterdam, 2024-<br/>
-    Knowledge-driven AI for Sustainability</p>
+    <p><b>Emile van Krieken</b>, VU Amsterdam, 2025-<br/>
+    Visual Commonsense Reasoning</p>
+  </td>
+<td style="text-align: center; border: none">  
+    <p><b>Stefano De Giorgis</b>, VU Amsterdam, 2025-<br/>
+    Reasoning about Memes</p>
   </td>
   </tr>
 </table>
