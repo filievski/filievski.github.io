@@ -22,11 +22,11 @@ author_profile: true
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
     <p><b>Emile van Krieken</b>, VU Amsterdam, 2025-<br/>
-    Visual Commonsense Reasoning</p>
+    Visual commonsense reasoning</p>
   </td>
 <td style="text-align: center; border: none">  
     <p><b>Stefano De Giorgis</b>, VU Amsterdam, 2025-<br/>
-    Reasoning about Memes</p>
+    Reasoning about memes</p>
   </td>
   </tr>
 </table>
