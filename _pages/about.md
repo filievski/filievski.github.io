@@ -21,19 +21,13 @@ redirect_from:
 * **Research Visitor**, Carnegie Mellon University (2017)
 * **MSc**, Vrije University Amsterdam (2013-2015)
 * **BSc**, Ss. Cyril and Methodius University Skopje (2009-2013)
-* [**Areas:**](https://ilievski.info/research) Commonsense Reasoning, Neuro-Symbolic AI, Analogy, AI for Social Good
-
-
-## Open positions
-We have two PhD positions open until May:
-
-1. [Multimodal Alignment with Common Sense](https://workingat.vu.nl/vacancies/phd-position-multimodal-alignment-with-common-sense-amsterdam-1165407) - supervised together with [Shujian Yu](https://nl.linkedin.com/in/shujian-yu-7498b3104) (deadline 19-05)
-2. [Software Architecture for Human-Centric AI Systems](https://workingat.vu.nl/vacancies/phd-position-software-architecture-for-human-centric-ai-systems-amsterdam-1078515) - supervised together with [Justus Bogner](https://xjreb.github.io/) (deadline 05-05)
-
+* [**Areas:**](https://ilievski.info/research) Commonsense Reasoning, Neurosymbolic AI, Analogy, Human-Centric AI
 
 ## News
-* In June-July, my team will welcome two new Postdocs: 1) [Emile van Krieken](https://emilevankrieken.com/), who will explore commonsense reasoning with multimodal foundation models, and 2) [Stefano De Giorgis](https://stendoipanni.github.io/), who will research knowledge-informed reasoning about the harmfulness of internet memes.
-* On Feb 3 and 4, I am visiting Konstantin Todorov and colleagues at the LIRMM (the Montpellier Laboratory of Computer Science, Robotics, and Microelectronics) institute. I will give a talk about what it takes to understand internet memes.
+* On September 15, two new PhDs join my team: 1) [Shaurya Gaur](https://scholar.google.com/citations?user=LoZr4WsAAAAJ&hl=en&oi=ao), who will explore software architectures for human-centric AI in collaboration with Justus Bogner (software architectures); and 2) [TC Chen](https://scholar.google.com/citations?user=XoElL5oAAAAJ&hl=en&oi=ao), who will research multimodal alignment with common sense, in collaboration with Shujian Yu (machine learning).
+* During this summer of 2025, I am attending ICWSM (Copenhagen, to present a paper), ACL (Vienna, to host the Analogy-Angle II workshop), and a Dagstuhl seminar on Neurosymbolic AI (Germany).
+* In June-July, we welcome two new Postdocs: 1) [Emile van Krieken](https://emilevankrieken.com/), who will explore commonsense reasoning with multimodal foundation models, and 2) [Stefano De Giorgis](https://stendoipanni.github.io/), who will research knowledge-informed reasoning about the harmfulness of internet memes.
+* On Feb 3 and 4, I visited Konstantin Todorov and colleagues at the LIRMM (the Montpellier Laboratory of Computer Science, Robotics, and Microelectronics) institute. I will give a talk about what it takes to understand internet memes.
 * I gave a talk in the Neurosymbolic AI (NAI) seminar series at the end of January about [Abstraction and Reasoning Beyond Foundation Models](https://www.linkedin.com/posts/pascalhitzler_abstraction-and-reasoning-beyond-foundation-activity-7275974165189275648-6fPF/). The seminar recording will soon appear on NAI's YouTube channel.
 * My book [Human-Centric AI with Common Sense](https://link.springer.com/book/10.1007/978-3-031-69974-0) is now published in the Springer Nature Synthesis series.
 * The second iteration of our workshop Analogy-Angle ([Analogy-Angle II](https://analogy-angle.github.io)) will be co-located with ACl 2025 in Vienna.
