@@ -26,7 +26,7 @@ redirect_from:
 ## News
 
 * On September 15, two new PhDs join my team: 1) [Shaurya Gaur](https://scholar.google.com/citations?user=LoZr4WsAAAAJ&hl=en&oi=ao), who will explore software architectures for human-centric AI in collaboration with Justus Bogner (software architectures); and 2) [TC Chen](https://scholar.google.com/citations?user=XoElL5oAAAAJ&hl=en&oi=ao), who will research multimodal alignment with common sense, in collaboration with Shujian Yu (machine learning).
-* During June and July, two MSc students from the University of Montpellier (group led by Madelina Croitoru), with a background in robotics, visited me: Mehdi Soltani and Luca Vogelsang. 
+* During June and July, two MSc students from the University of Montpellier (group led by Madelina Croitoru), with a background in robotics, visited our team: Mehdi Soltani and Luca Vogelsang. 
 * During the summer of 2025, I am attending ICWSM (Copenhagen, to present a paper), ACL (Vienna, to host the Analogy-Angle II workshop), and a Dagstuhl seminar on Neurosymbolic AI (Germany).
 * In June-July, we welcome two new Postdocs: 1) [Emile van Krieken](https://emilevankrieken.com/), who will explore commonsense reasoning with multimodal foundation models, and 2) [Stefano De Giorgis](https://stendoipanni.github.io/), who will research knowledge-informed reasoning about the harmfulness of internet memes.
 * On Feb 3 and 4, I visited Konstantin Todorov and colleagues at the LIRMM (the Montpellier Laboratory of Computer Science, Robotics, and Microelectronics) institute. I will give a talk about what it takes to understand internet memes.
