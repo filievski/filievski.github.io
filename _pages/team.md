@@ -26,7 +26,7 @@ author_profile: true
   </td>
 <td style="text-align: center; border: none">  
     <p><b>Stefano De Giorgis</b>, VU Amsterdam, 2025-<br/>
-    Reasoning about memes</p>
+    Meme semantics and nuanced reasoning</p>
   </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@ author_profile: true
   </td>
   <td style="text-align: center; border: none">
     <p><b>Gabriella Bollici</b>, 2024-<br/>
-    Value-aware reasoning about memes</p>
+     Reconstructing meme narratives</p>
   </td>
   <td style="text-align: center; border: none">  
     <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
