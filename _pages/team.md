@@ -81,7 +81,7 @@ author_profile: true
   </td>
   <td style="text-align: center; border: none">
     <p><b>Shaurya Gaur</b>, VU Amsterdam, 2025-<br/>
-    Software architectures for human-centric AI</p>
+    Architectures for human-centric AI</p>
   </td>
   </tr>
 </table>
