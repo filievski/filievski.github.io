@@ -55,7 +55,7 @@ author_profile: true
      Reconstructing meme narratives</p>
   </td>
   <td style="text-align: center; border: none">  
-    <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
+    <p><b>Fabian Hoppe</b>, 2023-<br/>
     Robust autoformalization with LLMs</p>
   </td>
 </tr>
@@ -72,15 +72,15 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-    <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
+    <p><b>Bradley P. Allen</b>, UvA, 2024-<br/>
     Neurosymbolic knowledge engineering</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Ting-Chih Chen</b>, VU Amsterdam, 2025-<br/>
+    <p><b>Ting-Chih Chen</b>, 2025-<br/>
     Multimodal commonsense alignment</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Shaurya Gaur</b>, VU Amsterdam, 2025-<br/>
+    <p><b>Shaurya Gaur</b>, 2025-<br/>
     Architectures for human-centric AI</p>
   </td>
   </tr>
