@@ -48,15 +48,15 @@ author_profile: true
 <tr style="border: none;">
   <td style="text-align: center; border: none">
     <p><b>Mohammad Hossein Khojasteh</b> 2024-<br/>
-    Analogical Abstraction</p>
+    Analogical abstraction</p>
   </td>
   <td style="text-align: center; border: none">
     <p><b>Gabriella Bollici</b>, 2024-<br/>
-    Value-aware Reasoning about Memes</p>
+    Value-aware reasoning about memes</p>
   </td>
   <td style="text-align: center; border: none">  
     <p><b>Fabian Hoppe</b>, VU Amsterdam, 2023-<br/>
-    Robust Autoformalization with LLMs</p>
+    Robust autoformalization with LLMs</p>
   </td>
 </tr>
 <tr style="border: none;">
@@ -64,18 +64,24 @@ author_profile: true
         <img style="height:200px" src="../images/Brad.jpg">
   </td>
   <td style="text-align: center; border: none">
+    <img style="height:200px" src="../images/TC.jpeg">
   </td>
   <td style="text-align: center; border: none">
+    <img style="height:200px" src="../images/Shaurya.jpeg">
 </td>
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
     <p><b>Bradley P. Allen</b>, University of Amsterdam, 2024-<br/>
-    Neurosymbolic Knowledge Engineering</p>
+    Neurosymbolic knowledge engineering</p>
   </td>
   <td style="text-align: center; border: none">
+    <p><b>Ting-Chih Chen</b>, VU Amsterdam, 2025-<br/>
+    Multimodal commonsense alignment</p>
   </td>
   <td style="text-align: center; border: none">
+    <p><b>Shaurya Gaur</b>, VU Amsterdam, 2025-<br/>
+    Software architectures for human-centric AI</p>
   </td>
   </tr>
 </table>
