@@ -25,9 +25,9 @@ author_profile: true
 
 3. Erbol Esengulov,  **Filip Ilievski** (2025). Semantic Search in Olympiad Math Problems. BNAIC/BeNeLearn Thesis Abstract.
 
-3. **Filip Ilievski**, Barbara Hammer, Frank van Harmelen, Benjamin Paassen, Sascha Saralajew, Ute Schmid, Michael Biehl, Marianna Bolognesi, Xin Luna Dong, Kiril Gashteovski, Pascal Hitzler, Giuseppe Marra, Pasquale Minervini, Martin Mundt, Axel-Cyrille Ngonga Ngomo, Alessandro Oltramari, Gabriella Pasi, Zeynep G. Saribatur, Luciano Serafini, John Shawe-Taylor, Vered Shwartz, Gabriella Skitalinskaya, Clemens Stachl, Gido M. van de Ven, Thomas Villmann (2025). Aligning Generalization Between Humans and Machines. **Nature Machine Intelligence**.
+3. **Filip Ilievski**, Barbara Hammer, Frank van Harmelen, Benjamin Paassen, Sascha Saralajew, Ute Schmid, Michael Biehl, Marianna Bolognesi, Xin Luna Dong, Kiril Gashteovski, Pascal Hitzler, Giuseppe Marra, Pasquale Minervini, Martin Mundt, Axel-Cyrille Ngonga Ngomo, Alessandro Oltramari, Gabriella Pasi, Zeynep G. Saribatur, Luciano Serafini, John Shawe-Taylor, Vered Shwartz, Gabriella Skitalinskaya, Clemens Stachl, Gido M. van de Ven, Thomas Villmann (2025). [Aligning Generalization Between Humans and Machines](https://rdcu.be/eH1AJ). **Nature Machine Intelligence**.
 
-4. Bradley P. Allen, Prateek Chhikara, Thomas Macaulay Ferguson, **Filip Ilievski**, Paul Groth (2025). Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations. NeSy.
+4. Bradley P. Allen, Prateek Chhikara, Thomas Macaulay Ferguson, **Filip Ilievski**, Paul Groth (2025). [Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations](https://proceedings.mlr.press/v284/allen25a.html). NeSy.
 
 5. Huabin Liu, **Filip Ilievski**, Cees Snoek (2025). [Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Commonsense_Video_Question_Answering_through_Video-Grounded_Entailment_Tree_Reasoning_CVPR_2025_paper.pdf). **CVPR**.
 
@@ -41,7 +41,7 @@ author_profile: true
 
 10. Mohammad Jaleed Khan, **Filip Ilievski**, Edward Curry (2025). [Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs](https://ebooks.iospress.nl/doi/10.3233/FAIA250227). The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
-11. Leilani Gilpin, **Filip Ilievski** (2025). Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
+11. Leilani Gilpin, **Filip Ilievski** (2025). [Neuro-Symbolic Reasoning in the Traffic Domain](https://neurosymbolic-ai-journal.com/system/files/nai-paper-775.pdf). **Neurosymbolic Artificial Intelligence Journal**.
 
 13. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://columbus-vqa.github.io). **AAAI**.
 
