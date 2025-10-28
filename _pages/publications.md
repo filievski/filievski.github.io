@@ -17,7 +17,7 @@ author_profile: true
 
 3. (under review) Mustafa Kaan Aslan, Reinout Heijungs, **Filip Ilievski**. The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for Streamlining Food Carbon Footprint Analysis. AI4ES workshop.
 
-3. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). BNAIC/BeNeLearn Encore Abstract.
+3. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes. BNAIC/BeNeLearn Encore Abstract.
 
 4. Tygo Bloem, **Filip Ilievski**  (2025). Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity. BNAIC/BeNeLearn Encore Abstract.
 
