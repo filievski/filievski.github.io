@@ -7,27 +7,47 @@ author_profile: true
 
   *See also: <u><a href="https://scholar.google.com/citations?user=4ZScBc0AAAAJ&hl=en">Google Scholar</a></u>*
 
-*Over seventy peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, EMNLP, NAACL, ACL, ICLR, NeurIPS, SWJ, KBS). An additional nine papers are currently under review.*
+*Over ninety peer-reviewed publications, many of which in top-tier conferences and journals (AAAI, IJCAI, EMNLP, NAACL, ACL, ICLR, NeurIPS, CVPR, ICWSM, ISWC, Nature MI, Neurosymbolic AI Journal, KBS). An additional four papers are currently in preparation or under review.*
 
-1. (under review) Huabin Liu, **Filip Ilievski**, Cees Snoek. Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning. **CVPR**.
+1. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Exploring Perceptual Limitations of Multimodal LLMs on Small Visual Objects. **TMLR**.
 
-2. (under review) Tygo Bloem, **Filip Ilievski**. Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity. The Web Conference.
+2. (under review) Bradley P. Allen, Prateek Chhikara, Thomas Macaulay Ferguson, **Filip Ilievski**, Paul Groth. Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations. **Neurosymbolic AI Journal**.
+
+2. (under review) Mustafa Kaan Aslan, Reinout Heijungs, **Filip Ilievski**. The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for Streamlining Food Carbon Footprint Analysis. AAAI demonstration paper track.
+
+3. (under review) Mustafa Kaan Aslan, Reinout Heijungs, **Filip Ilievski**. The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for Streamlining Food Carbon Footprint Analysis. AI4ES workshop.
+
+3. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). BNAIC/BeNeLearn Encore Abstract.
+
+4. Tygo Bloem, **Filip Ilievski**  (2025). Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity. BNAIC/BeNeLearn Encore Abstract.
+
+3. Vlad Morar,  **Filip Ilievski** (2025). "Where is AI being written?" – A geographic and epistemic meta-analysis of scientific literature. BNAIC/BeNeLearn Thesis Abstract.
+
+3. Erbol Esengulov,  **Filip Ilievski** (2025). Semantic Search in Olympiad Math Problems. BNAIC/BeNeLearn Thesis Abstract.
+
+3. **Filip Ilievski**, Barbara Hammer, Frank van Harmelen, Benjamin Paassen, Sascha Saralajew, Ute Schmid, Michael Biehl, Marianna Bolognesi, Xin Luna Dong, Kiril Gashteovski, Pascal Hitzler, Giuseppe Marra, Pasquale Minervini, Martin Mundt, Axel-Cyrille Ngonga Ngomo, Alessandro Oltramari, Gabriella Pasi, Zeynep G. Saribatur, Luciano Serafini, John Shawe-Taylor, Vered Shwartz, Gabriella Skitalinskaya, Clemens Stachl, Gido M. van de Ven, Thomas Villmann (2025). Aligning Generalization Between Humans and Machines. **Nature Machine Intelligence**.
+
+4. Bradley P. Allen, Prateek Chhikara, Thomas Macaulay Ferguson, **Filip Ilievski**, Paul Groth (2025). Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations. NeSy.
+
+5. Huabin Liu, **Filip Ilievski**, Cees Snoek (2025). Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning. **CVPR**.
+
+6. Tygo Bloem, **Filip Ilievski** (2025). Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity. **ICWSM**.
     
-5. (under review) Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**. ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question Answering with Multimodal Large Language Models. **ICLR**.
+7. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**  (2025). MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs. **ICLR**.
 
-6. (under review) Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, **Filip Ilievski**, Maosong Sun. Exploring Perceptual Limitations of Multimodal LLMs on Small Visual Objects. **NAACL**.
+8. Fabian Hoppe, **Filip Ilievski**, Jan-Christoph Kalo (2025). Investigating the Robustness of Deductive Reasoning with Large Language Models. **ECAI**.
 
-7. (to appear) **Filip Ilievski**, Riccardo Tommasini. Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
+9. **Filip Ilievski**, Riccardo Tommasini (2025). Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
-8. (to appear) Mohammad Jaleed Khan, **Filip Ilievski**, Edward Curry. Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs. The Handbook on Neurosymbolic AI and Knowledge Graphs.
+10. Mohammad Jaleed Khan, **Filip Ilievski**, Edward Curry (2025). Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
-9. (to appear) Leilani Gilpin, **Filip Ilievski**. Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
+11. Leilani Gilpin, **Filip Ilievski** (2025). Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
 
-10. (to appear) Filip Ilievski. Human-centric AI with Common Sense. **Springer Nature Synthesis** Book.
+12. Filip Ilievski. Human-centric AI with Common Sense (2025). **Springer Nature Synthesis** Book.
 
-11. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
+13. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
 
-12. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
+14. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
 
 8. Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew (2024). [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP** (Findings). 
