@@ -30,7 +30,7 @@ We conduct fundamental research on commonsense AI and investigate its applicatio
       <img style="width:600px" src="../images/meme_narratives.png">
   </td>
   <td style="border: none">
-  <b>AI for social good:</b> We investigate how AI can serve individuals and society. We study and develop methods to interpret narratives in complex online media, such as internet memes and arguments, which depend on personal and cultural values and background knowledge. Our methods strive to capture and explain misinformation and hate speech with a keen eye on their dependency on personal and cultural views. We also work on understanding how knowledge-based AI solutions can support sustainable policies, neuro-symbolic models for traffic monitoring, and multimodal reasoning in robotics.
+  <b>AI for social good:</b> We investigate how AI can serve individuals and society. We study and develop methods to interpret arguments and narratives in complex online media, such as internet memes and tweets, which depend on personal and cultural values and background knowledge. Our methods strive to capture and explain misinformation and hate speech with a keen eye on their dependency on personal and cultural views. We also work on understanding how knowledge-based AI solutions can support sustainable policies, neuro-symbolic models for traffic monitoring, and multimodal reasoning in robotics.
   </td>
 </tr>
 </table>
