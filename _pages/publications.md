@@ -29,13 +29,13 @@ author_profile: true
 
 4. Bradley P. Allen, Prateek Chhikara, Thomas Macaulay Ferguson, **Filip Ilievski**, Paul Groth (2025). Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations. NeSy.
 
-5. Huabin Liu, **Filip Ilievski**, Cees Snoek (2025). Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning. **CVPR**.
+5. Huabin Liu, **Filip Ilievski**, Cees Snoek (2025). [Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Commonsense_Video_Question_Answering_through_Video-Grounded_Entailment_Tree_Reasoning_CVPR_2025_paper.pdf). **CVPR**.
 
-6. Tygo Bloem, **Filip Ilievski** (2025). Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity. **ICWSM**.
+6. Tygo Bloem, **Filip Ilievski** (2025). [Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity](https://ojs.aaai.org/index.php/ICWSM/article/view/35815/37969). **ICWSM**.
     
-7. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**  (2025). MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs. **ICLR**.
+7. Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, **Filip Ilievski**  (2025). [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](https://openreview.net/pdf?id=DgaY5mDdmT). **ICLR**.
 
-8. Fabian Hoppe, **Filip Ilievski**, Jan-Christoph Kalo (2025). Investigating the Robustness of Deductive Reasoning with Large Language Models. **ECAI**.
+8. Fabian Hoppe, **Filip Ilievski**, Jan-Christoph Kalo (2025). [Investigating the Robustness of Deductive Reasoning with Large Language Models](https://arxiv.org/abs/2502.04352). **ECAI**.
 
 9. **Filip Ilievski**, Riccardo Tommasini (2025). Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
@@ -45,7 +45,7 @@ author_profile: true
 
 12. Filip Ilievski. Human-centric AI with Common Sense (2025). **Springer Nature Synthesis** Book.
 
-13. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://www.arxiv.org/abs/2409.04053). **AAAI**.
+13. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://columbus-vqa.github.io). **AAAI**.
 
 14. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
