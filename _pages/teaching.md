@@ -6,11 +6,11 @@ author_profile: true
 
 ## Course Instructor
 
-[**The Social Web**](https://studiegids.vu.nl/en/courses/2024-2025/X_405086#/), Fall 2024\
+[**The Social Web**](https://studiegids.vu.nl/en/courses/2024-2025/X_405086#/), Fall 2024, Fall 2025\
 Vrije Universiteit Amsterdam\
 Master's course
 
-[**Conversational AI**](https://studiegids.vu.nl/en/Bachelor/2024-2025/artificial-intelligence/XB_0119#/), Fall 2024\
+[**Conversational AI**](https://studiegids.vu.nl/en/Bachelor/2024-2025/artificial-intelligence/XB_0119#/), Fall 2024, Fall 2025\
 Vrije Universiteit Amsterdam\
 Bachelor course
 
