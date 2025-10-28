@@ -14,7 +14,7 @@ We conduct fundamental research on commonsense AI and investigate its applicatio
       <img style="width:400px" src="../images/entailment.png">
   </td>
   <td style="border: none">
-      <b>Commonsense reasoning:</b> Both commonsense psychology and naive physics are important topics for our team. We perform fundamental research on situational awareness, narrative understanding, and modeling of other agents. We focus on building robust methods that provide a faithful rationale for their reasoning. We explore neuro-symbolic methods such as entailment trees, combining LLMs with deterministic engines, and reasoning with scene knowledge graphs. 
+      <b>Commonsense reasoning:</b> Both commonsense psychology and naive physics are important topics for our lab. We perform fundamental research on situational awareness, narrative understanding, and video reasoning. We focus on building generalizable methods that provide a faithful rationale for their reasoning. We explore neuro-symbolic methods such as entailment trees, combining LLMs with deterministic engines, and reasoning with scene knowledge graphs. 
   </td>
 </tr>
 <tr style="border: none;">
