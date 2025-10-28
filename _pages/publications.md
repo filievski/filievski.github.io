@@ -37,17 +37,17 @@ author_profile: true
 
 8. Fabian Hoppe, **Filip Ilievski**, Jan-Christoph Kalo (2025). [Investigating the Robustness of Deductive Reasoning with Large Language Models](https://arxiv.org/abs/2502.04352). **ECAI**.
 
-9. **Filip Ilievski**, Riccardo Tommasini (2025). Capturing the Semantics of Internet Memes. The Handbook on Neurosymbolic AI and Knowledge Graphs.
+9. **Filip Ilievski**, Riccardo Tommasini (2025). [https://research.vu.nl/en/publications/edac1ed1-214b-4a5d-bf5e-fb73ee4c2096](Capturing the Semantics of Internet Memes). The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
-10. Mohammad Jaleed Khan, **Filip Ilievski**, Edward Curry (2025). Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs. The Handbook on Neurosymbolic AI and Knowledge Graphs.
+10. Mohammad Jaleed Khan, **Filip Ilievski**, Edward Curry (2025). [Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs](https://ebooks.iospress.nl/doi/10.3233/FAIA250227). The Handbook on Neurosymbolic AI and Knowledge Graphs.
 
 11. Leilani Gilpin, **Filip Ilievski** (2025). Neuro-Symbolic Reasoning in the Traffic Domain. **Neurosymbolic Artificial Intelligence Journal**.
 
-12. Filip Ilievski. Human-centric AI with Common Sense (2025). **Springer Nature Synthesis** Book.
-
 13. Koen Kraiijveld, Yifan Jiang, Kaixin Ma, **Filip Ilievski** (2025). [COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes](https://columbus-vqa.github.io). **AAAI**.
 
-14. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
+14. Filip Ilievski (2024). [Human-centric AI with Common Sense](https://link.springer.com/book/10.1007/978-3-031-69974-0). **Springer Nature Synthesis** Book.
+
+15. Yifan Jiang, Jiarui Zhang, Kexuan Sun, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, **Filip Ilievski**, Jay Pujara (2024). [MARVEL: Multiple Abstraction and Reasoning benchmark
 for Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591). **NeurIPS Benchmarks**.
 
 8. Zhivar Sourati, Darshan Deshpande, **Filip Ilievski**, Kiril Gashteovski, Sascha Saralajew (2024). [Robust Text Classification: Analyzing Prototype-Based Networks](https://arxiv.org/abs/2311.06647). **EMNLP** (Findings). 
