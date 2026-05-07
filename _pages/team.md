@@ -86,7 +86,7 @@ author_profile: true
 
 ## Past
 
-**Bradley P. Allen**, PhD student, 2023-2026
+**Bradley P. Allen**, PhD student, 2023-2026 \
 Neurosymbolic knowledge engineering
 
 **Kaan Aslan**, RA, 2024-2025 \
