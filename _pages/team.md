@@ -61,20 +61,15 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-        <img style="height:200px" src="../images/Brad.jpg">
-  </td>
-  <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/TC.jpeg">
   </td>
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Shaurya.jpeg">
 </td>
+  <td style="text-align: center; border: none">
+  </td>
 </tr>
 <tr style="border: none;">
-  <td style="text-align: center; border: none">
-    <p><b>Bradley P. Allen</b>, UvA, 2024-<br/>
-    Neurosymbolic knowledge engineering</p>
-  </td>
   <td style="text-align: center; border: none">
     <p><b>Ting-Chih Chen</b>, 2025-<br/>
     Multimodal commonsense alignment</p>
@@ -83,11 +78,16 @@ author_profile: true
     <p><b>Shaurya Gaur</b>, 2025-<br/>
     Architectures for human-centric AI</p>
   </td>
+  <td style="text-align: center; border: none">
+  </td>
   </tr>
 </table>
 
 
 ## Past
+
+**Bradley P. Allen**, PhD student, 2023-2026
+Neurosymbolic knowledge engineering
 
 **Kaan Aslan**, RA, 2024-2025 \
 Knowledge-powered Sustainability Agents
