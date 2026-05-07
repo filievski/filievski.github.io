@@ -83,6 +83,24 @@ author_profile: true
   </tr>
 </table>
 
+## Research assistants
+
+<table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
+  <tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Sara.jpg">
+</td>
+</tr>
+<tr style="border: none;">
+  <td style="text-align: center; border: none">  
+    <p><b>Sara Abesova</b>, VU Amsterdam, 2025-<br/>
+    Knowledge-based reasoning about memes</p>
+  </td>
+<td style="text-align: center; border: none">  
+  </td>
+  </tr>
+</table>
+
 
 ## Past
 
