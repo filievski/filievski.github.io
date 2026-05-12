@@ -88,7 +88,7 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Sara.jpeg">
+<img style="height:200px" src="../images/Sara.jpg">
 </td>
 </tr>
 <tr style="border: none;">
