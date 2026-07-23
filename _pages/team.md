@@ -47,7 +47,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-    <p><b><a href="https://mhkhojaste.github.io/">Mohammad Hossein Khojasteh</a></b> 2024-<br/>
+    <p><b><a href="https://mhkhojaste.github.io/">Mohammadhossein Khojasteh</a></b> 2024-<br/>
     Analogical abstraction</p>
   </td>
   <td style="text-align: center; border: none">
@@ -55,7 +55,7 @@ author_profile: true
      Reconstructing meme narratives</p>
   </td>
   <td style="text-align: center; border: none">  
-    <p><b>Fabian Hoppe</b>, 2023-<br/>
+    <p><b><a href="https://www.fhoppe.com/">Fabian Hoppe</a></b>, 2023-<br/>
     Robust autoformalization with LLMs</p>
   </td>
 </tr>
