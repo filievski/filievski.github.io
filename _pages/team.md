@@ -93,7 +93,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b>Sara Abesova</b>, VU Amsterdam, 2025-<br/>
+    <p><b><a href="https://nl.linkedin.com/in/sara-abesova-717231280">Sara Abesova</a></b>, VU Amsterdam, 2026-<br/>
     Knowledge-based reasoning about memes</p>
   </td>
 <td style="text-align: center; border: none">  
