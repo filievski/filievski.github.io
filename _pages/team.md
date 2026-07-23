@@ -71,7 +71,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-    <p><b>Ting-Chih Chen</b>, 2025-<br/>
+    <p><b><a href="https://tingchihc.github.io/">Ting-Chih Chen</a></b>, 2025-<br/>
     Multimodal commonsense alignment</p>
   </td>
   <td style="text-align: center; border: none">
