@@ -47,7 +47,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-    <p><b>Mohammad Hossein Khojasteh</b> 2024-<br/>
+    <p><b><a href="https://mhkhojaste.github.io/">Mohammad Hossein Khojasteh</a></b> 2024-<br/>
     Analogical abstraction</p>
   </td>
   <td style="text-align: center; border: none">
