@@ -51,7 +51,7 @@ author_profile: true
     Analogical abstraction</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Gabriella Bollici</b>, 2024-<br/>
+    <p><b><a href="https://nl.linkedin.com/in/gabriella-bollici-bab32123b">Gabriella Bollici</a></b>, 2024-<br/>
      Reconstructing meme narratives</p>
   </td>
   <td style="text-align: center; border: none">  
