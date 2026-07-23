@@ -35,41 +35,23 @@ author_profile: true
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
-<td style="text-align: center; border: none">
-    <img style="height:200px" src="../images/Hossein.png">
-</td>
   <td style="text-align: center; border: none">
         <img style="height:200px" src="../images/Gabriella.jpeg">
   </td>
-<td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
-</td>
-</tr>
-<tr style="border: none;">
-  <td style="text-align: center; border: none">
-    <p><b><a href="https://mhkhojaste.github.io/">Mohammadhossein Khojasteh</a></b> 2024-<br/>
-    Analogical abstraction</p>
-  </td>
-  <td style="text-align: center; border: none">
-    <p><b><a href="https://nl.linkedin.com/in/gabriella-bollici-bab32123b">Gabriella Bollici</a></b>, 2024-<br/>
-     Reconstructing meme narratives</p>
-  </td>
-  <td style="text-align: center; border: none">  
-    <p><b><a href="https://www.fhoppe.com/">Fabian Hoppe</a></b>, 2023-<br/>
-    Robust autoformalization with LLMs</p>
-  </td>
-</tr>
-<tr style="border: none;">
-  <td style="text-align: center; border: none">
+    <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/TC.jpeg">
   </td>
   <td style="text-align: center; border: none">
     <img style="height:200px" src="../images/Shaurya.jpeg">
 </td>
-  <td style="text-align: center; border: none">
-  </td>
+
 </tr>
 <tr style="border: none;">
+
+  <td style="text-align: center; border: none">
+    <p><b><a href="https://nl.linkedin.com/in/gabriella-bollici-bab32123b">Gabriella Bollici</a></b>, 2024-<br/>
+     Reconstructing meme narratives</p>
+  </td>
   <td style="text-align: center; border: none">
     <p><b><a href="https://tingchihc.github.io/">Ting-Chih Chen</a></b>, 2025-<br/>
     Multimodal commonsense alignment</p>
@@ -77,6 +59,28 @@ author_profile: true
   <td style="text-align: center; border: none">
     <p><b><a href="https://nl.linkedin.com/in/shaurgaur">Shaurya Gaur</a></b>, 2025-<br/>
     Architectures for human-centric AI</p>
+  </td>
+  
+</tr>
+<tr style="border: none;">
+<td style="text-align: center; border: none">
+<img style="height:200px" src="../images/Fabian-Hoppe.jpeg">
+</td>
+  <td style="text-align: center; border: none">
+    <img style="height:200px" src="../images/Hossein.png">
+</td>
+  <td style="text-align: center; border: none">
+  </td>
+</tr>
+<tr style="border: none;">
+
+  <td style="text-align: center; border: none">  
+    <p><b><a href="https://www.fhoppe.com/">Fabian Hoppe</a></b>, 2023-<br/>
+    Robust autoformalization with LLMs</p>
+  </td>
+    <td style="text-align: center; border: none">
+    <p><b><a href="https://mhkhojaste.github.io/">Mohammadhossein Khojasteh</a></b> 2024-<br/>
+    Analogical abstraction</p>
   </td>
   <td style="text-align: center; border: none">
   </td>
@@ -93,7 +97,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">  
-    <p><b><a href="https://nl.linkedin.com/in/sara-abesova-717231280">Sara Abesova</a></b>, VU Amsterdam, 2026-<br/>
+    <p><b><a href="https://nl.linkedin.com/in/sara-abesova-717231280">Sara Abesova</a></b>, 2026-<br/>
     Knowledge-based reasoning about memes</p>
   </td>
 <td style="text-align: center; border: none">  
