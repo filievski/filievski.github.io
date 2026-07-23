@@ -75,7 +75,7 @@ author_profile: true
     Multimodal commonsense alignment</p>
   </td>
   <td style="text-align: center; border: none">
-    <p><b>Shaurya Gaur</b>, 2025-<br/>
+    <p><b><a href="https://nl.linkedin.com/in/shaurgaur">Shaurya Gaur</a></b>, 2025-<br/>
     Architectures for human-centric AI</p>
   </td>
   <td style="text-align: center; border: none">
