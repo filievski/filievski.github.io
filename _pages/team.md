@@ -12,21 +12,21 @@ author_profile: true
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
   <tr style="border: none;">
 <td style="text-align: center; border: none">
-<img style="height:200px" src="../images/Emile.jpg">
-</td>
-<td style="text-align: center; border: none">
 <img style="height:200px" src="../images/Stefano.jpg">
 </td>
-
+  <td style="text-align: center; border: none">
+  </td>
+      <td style="text-align: center; border: none">
+  </td>
 </tr>
 <tr style="border: none;">
-  <td style="text-align: center; border: none">  
-    <p><b>Emile van Krieken</b>, VU Amsterdam, 2025-<br/>
-    Visual commonsense reasoning</p>
-  </td>
 <td style="text-align: center; border: none">  
     <p><b>Stefano De Giorgis</b>, VU Amsterdam, 2025-<br/>
-    Meme semantics and nuanced reasoning</p>
+    Meme semantics and value-aware reasoning</p>
+  </td>
+    <td style="text-align: center; border: none">
+  </td>
+    <td style="text-align: center; border: none">
   </td>
   </tr>
 </table>
@@ -103,6 +103,9 @@ author_profile: true
 
 
 ## Past
+
+**Emile van Krieken**, Postdoc, 2025-2026 \
+Visual commonsense reasoning
 
 **Bradley P. Allen**, PhD student, 2023-2026 \
 Neurosymbolic knowledge engineering
