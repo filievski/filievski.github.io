@@ -21,7 +21,7 @@ author_profile: true
 </tr>
 <tr style="border: none;">
 <td style="text-align: center; border: none">  
-    <p><b><a href="https://stendoipanni.github.io/">Stefano De Giorgis</a></b>, VU Amsterdam, 2025-<br/>
+    <p><b><a href="https://stendoipanni.github.io/">Stefano De Giorgis</a></b>, 2025-<br/>
     Meme semantics and value-aware reasoning</p>
   </td>
     <td style="text-align: center; border: none">
