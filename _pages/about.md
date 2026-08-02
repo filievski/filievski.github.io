@@ -25,7 +25,7 @@ redirect_from:
 
 ## News
 
-* I am teaching three courses this Fall: [Conversational AI (BSc)](https://studiegids.vu.nl/en/courses/2024-2025/XB_0119#/), [Latest Advances in AI](https://studiegids.vu.nl/en/Master/2026-2027/artificial-intelligence/XM_0185) (new course), and [The Social Web (MSc)](https://studiegids.vu.nl/EN/courses/2024-2025/X_405086#/).
+* I am teaching three courses this Fall: [Conversational AI (BSc)](https://studiegids.vu.nl/en/courses/2024-2025/XB_0119#/), [Latest Advances in AI](https://studiegids.vu.nl/en/Master/2026-2027/artificial-intelligence/XM_0185) (MSc, new course), and [The Social Web (MSc)](https://studiegids.vu.nl/EN/courses/2024-2025/X_405086#/).
 * Emile and I were awarded PhD funding from ELLIS in collaboration with G-Research. This was [a special call for proposals](https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent) for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department.
 * Our Dagstuhl seminar proposal “Analogical Abstraction: Modeling and Applications” in 2027, together with Marianna Bolognesi, Jay Pujara, and Ute Schmid, has been accepted. This seminar will take place in April 2027.
 * Stefano and I are organizing a special issue at the [TGDK journal on Neuro-Symbolic Modeling for Human-Centric AI](https://www.dagstuhl.de/en/institute/news/2026/tgdk-cfp-special-issue-neuro-symbolic-modeling-for-human-centric-ai).
