@@ -4,9 +4,10 @@ permalink: /research/
 author_profile: true
 ---
 
-We investigate how to transform the development of **human-centric AI with common sense** to ultimately support **social good** applications.
+We investigate how to transform the development of **human-centric AI with common sense** to ultimately support social good applications.
 
-We conduct fundamental research on commonsense AI and investigate its application to online content safety, informed by **empirical insights and interdisciplinary theories**. We mostly draw on theories from cognitive psychology, communication science, and linguistics, always looking to broaden our perspective. Our approach integrates four key pillars: theory, background knowledge, explainable decision-making, and theory-grounded benchmarking.
+We conduct fundamental research on **commonsense AI** and investigate its application to online content safety, informed by **empirical insights and interdisciplinary theories**. We mostly draw on theories from cognitive psychology, communication science, and linguistics, always looking to broaden our perspective. Our approach integrates four key pillars: theory, background knowledge, explainable decision-making, and theory-grounded benchmarking.
+
 
 <table style="border-collapse: collapse; border: none; table-layout: fixed ; width: 100%;">
 <tr style="border: none;">
