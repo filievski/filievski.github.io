@@ -15,15 +15,23 @@ We conduct fundamental research on **commonsense AI** and investigate its applic
       <img style="width:400px" src="../images/entailment.png">
   </td>
   <td style="border: none">
-      <b>Commonsense reasoning:</b> Both commonsense psychology and naive physics are important topics for our lab. We perform fundamental research on situational awareness, narrative understanding, and video reasoning. We focus on building generalizable methods that provide a faithful rationale for their reasoning. We explore neuro-symbolic methods such as entailment trees, combining LLMs with deterministic engines, and reasoning with scene knowledge graphs. 
+      <b>Commonsense reasoning:</b> Commonsense reasoning remains a tough nut to crack for state-of-the-art AI. We explore various kinds of commonsense reasoning: abduction, analogy, defeasibility, dialogical reasoning, and informal argumentation/rhetorics. We develop benchmarks and perform studies to understand the ability of state-of-the-art AI to perform commonsense reasoning. We explore neuro-symbolic methods such as entailment trees and combining LLMs with cognitive models, logical engines, and knowledge graphs.  
   </td>
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-      <img style="width:600px" src="../images/aa.png">
+      <img style="width:600px" src="../images/viskg.png">
   </td>
   <td style="border: none">
-  <b>Multimodal analogy and abstraction:</b> We study analogy and abstraction in AI inspired by key cognitive generalization mechanisms of humans. We focus on narratives and lateral thinking puzzles, covering text and vision. We create benchmarks and develop neuro-symbolic methods to advance the state-of-the-art in abstraction and analogical reasoning. We develop methods that derive and leverage explicit representations to enable robust and interpretable learning from experience.
+  <b>Modeling the physical world:</b> Drawing on a long tradition of work from naïve physics to Gibson’s affordances to today’s “hot” world models, we explore how to model the physical world. We investigate how to align multiple modalities, reason about affordances, and develop anticipatory world models. For this purpose, we combine commonsense knowledge sources and scene knowledge graphs with foundation models and reinforcement learning.
+  </td>
+</tr>
+<tr style="border: none;">
+  <td style="text-align: center; border: none">
+      <img style="width:600px" src="../images/stretchbot.png">
+  </td>
+  <td style="border: none">
+  <b>Sense-making of a single viewpoint:</b> Social intelligence in AI and collaboration in human-AI teams requires the ability to coherently make sense of a single viewpoint. We investigate commonsense psychology topics such as embodiment, emotions, and belief-desire-intention frameworks. 
   </td>
 </tr>
 <tr style="border: none;">
@@ -31,11 +39,11 @@ We conduct fundamental research on **commonsense AI** and investigate its applic
       <img style="width:600px" src="../images/meme_narratives.png">
   </td>
   <td style="border: none">
-  <b>AI for social good:</b> We investigate how AI can serve individuals and society. We study and develop methods to interpret arguments and narratives in complex online media, such as internet memes and tweets, which depend on personal and cultural values and background knowledge. Our methods strive to capture and explain misinformation and hate speech with a keen eye on their dependency on personal and cultural views. We also work on understanding how knowledge-based AI solutions can support sustainable policies, neuro-symbolic models for traffic monitoring, and multimodal reasoning in robotics.
+  <b>Socio-cultural-moral AI: </b> While commonsense AI aims to provide a common ground for human-AI collaboration based on explicit knowledge modeling, it is important to recognize that such a common ground is inevitably conditioned on particular social, cultural, and moral viewpoints. With this in mind, we study critical thinking and bias in AI systems, and we explore mechanisms to incorporate socio-cultural perspectives and values for a responsible AI. We look at complex, perspectivized, and safety-sensitive media such as internet memes from the lens of evolving multimodal narratives.
   </td>
 </tr>
 </table>
 
-
+Finally, we explore **cross-cutting topics** that matter for commonsense reasoning in the physical and socio-cultural-moral AI. These topics are critical for multiple of the above pillars. They include abstraction and framing, causality, explainability, and construct validity.
 
 See [my recent publications](https://www.ilievski.info/publications/) for more information.
