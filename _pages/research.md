@@ -28,7 +28,7 @@ We conduct fundamental research on **commonsense AI** and investigate its applic
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-      <img style="width:600px" src="../images/stretchbot.png">
+      <img style="width:600px" src="../images/causal_graphs.png">
   </td>
   <td style="border: none">
   <b>Sense-making of a single viewpoint:</b> Social intelligence in AI and collaboration in human-AI teams requires the ability to coherently make sense of a single viewpoint. We investigate commonsense psychology topics such as embodiment, emotions, and belief-desire-intention frameworks. 
