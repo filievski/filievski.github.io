@@ -28,7 +28,7 @@ We conduct fundamental research on **commonsense AI** and investigate its applic
 </tr>
 <tr style="border: none;">
   <td style="text-align: center; border: none">
-      <img style="width:600px" src="../images/causal_graphs.png">
+      <img style="width:600px" src="../images/meme_narratives.png">
   </td>
   <td style="border: none">
   <b>Socio-cultural-moral sense-making: </b> While commonsense AI aims to provide a common ground for human-AI collaboration based on explicit knowledge modeling, it is important to recognize that such a common ground is inevitably conditioned on particular social, cultural, and moral viewpoints. With this in mind, we study critical thinking and bias in AI systems, and we explore mechanisms to incorporate socio-cultural perspectives and values for a responsible AI. We incorporate naive psychology models about beliefs, desires, intentions, and emotions. We look at complex, perspectivized, and safety-sensitive media such as internet memes from the lens of evolving multimodal narratives.
