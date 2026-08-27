@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-We investigate how to transform the development of **human-centric AI with common sense** to ultimately contribute to a . We conduct fundamental research on **commonsense AI** and investigate its application to online content safety, informed by **empirical insights and interdisciplinary theories** from cognitive psychology, communication science, and linguistics, always looking to broaden our perspective. Our approach seeks to align theory, background knowledge, explainable decision-making, and theory-grounded benchmarking.
+We investigate how to transform the development of **human-centric AI with common sense** to ultimately contribute to a more humane world. We conduct fundamental research on **commonsense AI** and investigate its application to online content safety, informed by **empirical insights and interdisciplinary theories** from cognitive psychology, communication science, and linguistics, always looking to broaden our perspective. Our approach seeks to align theory, background knowledge, explainable decision-making, and theory-grounded benchmarking.
 
 The commonsense AI team pursues the following thrusts:
 
