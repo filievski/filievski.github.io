@@ -31,19 +31,11 @@ We conduct fundamental research on **commonsense AI** and investigate its applic
       <img style="width:600px" src="../images/causal_graphs.png">
   </td>
   <td style="border: none">
-  <b>Sense-making of a single viewpoint:</b> Social intelligence in AI and collaboration in human-AI teams requires the ability to coherently make sense of a single viewpoint. We investigate commonsense psychology topics such as embodiment, emotions, and belief-desire-intention frameworks. 
-  </td>
-</tr>
-<tr style="border: none;">
-  <td style="text-align: center; border: none">
-      <img style="width:600px" src="../images/meme_narratives.png">
-  </td>
-  <td style="border: none">
-  <b>Socio-cultural-moral AI: </b> While commonsense AI aims to provide a common ground for human-AI collaboration based on explicit knowledge modeling, it is important to recognize that such a common ground is inevitably conditioned on particular social, cultural, and moral viewpoints. With this in mind, we study critical thinking and bias in AI systems, and we explore mechanisms to incorporate socio-cultural perspectives and values for a responsible AI. We look at complex, perspectivized, and safety-sensitive media such as internet memes from the lens of evolving multimodal narratives.
+  <b>Socio-cultural-moral sense-making: </b> While commonsense AI aims to provide a common ground for human-AI collaboration based on explicit knowledge modeling, it is important to recognize that such a common ground is inevitably conditioned on particular social, cultural, and moral viewpoints. With this in mind, we study critical thinking and bias in AI systems, and we explore mechanisms to incorporate socio-cultural perspectives and values for a responsible AI. We incorporate naive psychology models about beliefs, desires, intentions, and emotions. We look at complex, perspectivized, and safety-sensitive media such as internet memes from the lens of evolving multimodal narratives.
   </td>
 </tr>
 </table>
 
-Finally, we explore **cross-cutting topics** that matter for commonsense reasoning in the physical and socio-cultural-moral AI. These topics are critical for multiple of the above pillars. They include abstraction and framing, causality, explainability, and construct validity.
+Finally, we explore **cross-cutting topics** that matter for commonsense reasoning in the physical and socio-cultural-moral AI. These topics are critical for multiple of the above pillars. They include abstraction and framing, causality, explainability, embodiment, and construct validity.
 
 See [my recent publications](https://www.ilievski.info/publications/) for more information.
