@@ -13,6 +13,7 @@ redirect_from:
 * **Coordinator**, [Situated AI (BSc Minor)](https://vu.nl/en/education/minor/situated-ai)
 * **MT Member**, [ELLIS Amsterdam](https://ivi.fnwi.uva.nl/ellis/)
 * **Member**, [ELLIS - the European Laboratory for Learning and Intelligent Systems](https://ellis.eu)
+* **Executive Director**, [Dreams Lab](https://vu.nl/en/about-vu/faculties/faculty-of-science/more-about/dreams-lab-computer-science)
 * **Affiliated Scientist**, [Amsterdam Sustainability Institute (ASI)](https://vu.nl/en/about-vu/research-institutes/asi)
 * **Scientific Coordinator**, [Digital Sustainability Institute (DiSC)](https://digitalsustainabilitycenter.nl)
 * **Research Assistant Professor**, USC Computer Science (2022-2023)
