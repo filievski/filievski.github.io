@@ -70,7 +70,8 @@ author_profile: true
     <img style="height:200px" src="../images/Hossein.png">
 </td>
   <td style="text-align: center; border: none">
-  </td>
+    <img style="height:200px" src="../images/Federica.jpeg">
+</td>
 </tr>
 <tr style="border: none;">
 
@@ -82,7 +83,9 @@ author_profile: true
     <p><b><a href="https://mhkhojaste.github.io/">Mohammadhossein Khojasteh</a></b> 2024-<br/>
     Analogical abstraction</p>
   </td>
-  <td style="text-align: center; border: none">
+    <td style="text-align: center; border: none">
+    <p><b><a href="https://www.linkedin.com/in/federica-kulka/">Federica Kulka</a></b> 2026-<br/>
+    Neurosymbolic world models</p>
   </td>
   </tr>
 </table>
