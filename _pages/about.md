@@ -26,6 +26,9 @@ redirect_from:
 
 ## News
 
+* We are currently [hiring](https://werkenbij.vu.nl/vacatures/postdoc-neurosymbolic-reasoning-in-multimodal-world-models-amsterdam-1334226) a postdoctoral researcher on neurosymbolic world models, funded by my NWO AiNed project "Human-centric AI with common sense". See the vacancy for details.
+* On October 1, [Federica Kulka](https://www.linkedin.com/in/federica-kulka/) started as an ELLIS PhD student in the Industry track, co-supervised with Emile van Krieken and co-advised by Sascha Saralajew.
+* Welcome to [Giulia Concourde](https://dott-informatica.campusnet.unito.it/do/studenti.pl/Show?_id=802321#profilo), who is visiting us for the next few months from the University of Turin.
 * I am teaching three courses this Fall: [Conversational AI (BSc)](https://studiegids.vu.nl/en/courses/2024-2025/XB_0119#/), [Latest Advances in AI](https://studiegids.vu.nl/en/Master/2026-2027/artificial-intelligence/XM_0185) (MSc, new course), and [The Social Web (MSc)](https://studiegids.vu.nl/EN/courses/2024-2025/X_405086#/).
 * Emile and I were awarded PhD funding from ELLIS in collaboration with G-Research. This was [a special call for proposals](https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent) for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department.
 * Our Dagstuhl seminar proposal “Analogical Abstraction: Modeling and Applications” in 2027, together with Marianna Bolognesi, Jay Pujara, and Ute Schmid, has been accepted. This seminar will take place in April 2027.
